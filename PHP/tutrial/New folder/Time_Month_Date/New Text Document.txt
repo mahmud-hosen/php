@@ -1,0 +1,21 @@
+<?php
+
+date_default_timezone_set('Asia/Dhaka');  // Set time in asis_Dhaka
+echo date("d m yy h:i");  //Time & Day,Month,Year
+
+echo "<br/>";
+echo date("D M Y");
+echo "<br/>";
+echo date("h:i");
+
+echo "<br/>";
+
+
+
+echo time();    // All second show from 1971 
+
+
+
+
+
+?>

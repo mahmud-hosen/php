@@ -1,0 +1,42 @@
+<?php
+
+
+
+// Switch
+
+$digit=0;
+   switch($digit)
+   {
+
+    case "0":
+    echo  "ZERO";
+    break;
+
+    case "1":
+      echo "ONE";
+    break;
+
+     case "2":
+      echo "TWO" ;
+     break;
+
+
+      case "3":
+         echo "THREE";
+      break;
+
+
+      case "4":
+         echo "FOUR";
+      break;
+
+
+      
+      default:
+      echo " NOT DIGIT";
+      
+
+   }
+
+
+?>

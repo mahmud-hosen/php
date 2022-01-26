@@ -1,0 +1,12 @@
+<?php
+
+
+
+
+
+include "from1.php";        //Add other page in welcome.php page
+                            // include ,include_once ,require_once,  require same work
+                             
+require_once "reg.php";
+
+?>

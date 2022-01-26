@@ -1,0 +1,19 @@
+ <?php
+                 //Insert_query
+
+
+                 $insert_query = "INSERT INTO student VALUES(7,'lima','lima@gmail.com','1234')";
+
+
+
+                 $run_query = mysqli_query($conn,$insert_query);
+                 if($run_query==true){
+
+                    echo " Succesfully insert";
+                 }
+                 else{
+
+
+                    echo " Not insert";
+                 }
+                 ?>

@@ -1,0 +1,27 @@
+
+<?php
+
+
+
+//if_else
+
+
+$a=5;
+$b=6;
+
+
+if($a==$b){
+
+   echo "Equal";
+
+
+}else{
+
+echo " Not_Equal";
+
+}
+   
+
+
+
+?> 

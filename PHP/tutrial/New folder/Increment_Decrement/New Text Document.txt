@@ -1,0 +1,28 @@
+
+<?php
+
+
+
+//php_Increment & Decrement
+
+
+$a=5;
+$b=12;
+$c=12;
+$d=12;
+
+
+   echo ++$a;
+   echo ++$a;
+
+   echo  $b++;
+   echo  $b++;
+
+   echo --$c;
+   echo $d--;
+   echo $d--;
+   
+
+
+
+?> 

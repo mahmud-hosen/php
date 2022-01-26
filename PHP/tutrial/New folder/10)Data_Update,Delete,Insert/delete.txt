@@ -1,0 +1,21 @@
+<?php
+
+                 // Delete_Query
+
+
+                 $Delete_query= "DELETE FROM student WHERE id =1";
+                 $run_query = mysqli_query($conn,$Delete_query);
+                 if($run_query==true){
+
+                    echo " Succesfully Delete";
+                 }
+                 else{
+
+
+                    echo " Not Delete";
+                 }
+
+
+
+
+?>

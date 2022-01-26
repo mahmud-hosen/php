@@ -1,0 +1,15 @@
+ <?php
+                 //Update_query
+
+                 $update_query= "UPDATE student SET name='mahadi',email='mahadi@gmail.com',password='567' WHERE id=2 ";
+                 $run_query = mysqli_query($conn,$update_query);
+                 if($run_query==true){
+
+                    echo " Succesfully Update";
+                 }
+                 else{
+
+
+                    echo " Not Update";
+                 }
+                 ?>

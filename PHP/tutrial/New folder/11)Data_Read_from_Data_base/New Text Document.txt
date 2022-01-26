@@ -1,0 +1,62 @@
+<?php
+
+include 'config.php';
+
+?>
+
+      <?php
+                 //Read_Value From Data_Base
+                 $read_query="SELECT* from buyer_info where b_id=10 ";
+                 $run_query= mysqli_query($conn,$read_query);
+
+                
+
+//
+
+                 $read_query2="SELECT* from buyer_cement where b_id=21 ";
+                 $run_query2= mysqli_query($conn,$read_query2);
+
+                 $data_count=mysqli_num_rows($run_query2);   //count same id column from database
+
+                 echo $data_count;
+
+
+
+                 if($run_query2==true){
+                    while($data1 = mysqli_fetch_array($run_query2)){
+
+
+                       echo "Amount=".$data1["cement_amount"].'</br>'."Rate".$data1["cement_rate"].'</br>'."Totall".$data1["cement_taka"];
+
+                      
+                      
+                    }
+                }
+                else{
+                   echo "Connection_Error";
+                }
+                
+
+
+
+
+
+
+
+                 if($run_query==true){
+                     while($data = mysqli_fetch_array($run_query)){
+
+
+                        echo "ID=".$data["b_id"].'</br>'."Name".$data["b_name"].'</br>'."Time".$data["time"];
+
+                        echo $data["b_adr"];
+                       
+                     }
+                 }
+                 else{
+                    echo "Connection_Error";
+                 }
+                 ?>
+
+                 
+

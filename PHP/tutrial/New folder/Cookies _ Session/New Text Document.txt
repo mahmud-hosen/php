@@ -1,0 +1,34 @@
+
+
+<?php
+
+
+
+echo $_COOKIE["username"];
+
+
+
+
+
+?>
+
+
+
+<?php
+// it will be other page 
+
+
+
+setcookie("username","Mahmud",time()+10);
+
+
+?>
+
+
+
+
+
+
+    
+</body>
+</html>

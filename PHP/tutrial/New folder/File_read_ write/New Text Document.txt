@@ -1,0 +1,16 @@
+
+<?php
+
+
+
+echo readfile("read.txt");   //read file
+
+echo fwrite(fopen("read.txt","w"),"hi_Mahmud");  //write file
+
+fclose("read.txt");
+
+
+
+
+
+?>

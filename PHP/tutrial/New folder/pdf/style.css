@@ -1,0 +1,26 @@
+table{
+    width: 60%; 
+    text-align: center;
+    font-size: 22px;
+    background-color: rgb(243, 220, 194);
+     margin: 5px;
+     border: 1px solid black;
+     border-collapse: collapse;
+}
+th{
+    border: 2px solid black;
+    background-color: rgba(209, 210, 219, 0.904);
+    font-size: 23px;
+    height: 55px;  
+}
+ th,td{ 
+  padding: 5px;
+     }
+thead tr th:first-child,
+ tbody tr td:first-child {
+  width: 200px;
+  font-weight: normal;
+ }
+tr:nth-child(even) {
+    background-color: rgb(222, 223, 235);
+    }

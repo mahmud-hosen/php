@@ -1,0 +1,46 @@
+<?php
+
+include 'config.php';
+
+?>
+
+
+
+
+      <?php
+                 //Read_Value From Data_Base
+                 $read_query="SELECT* from student";
+                 $run_query= mysqli_query($conn,$read_query);
+
+                 $data_count=mysqli_num_rows($run_query);
+
+                 echo "$data_count";
+
+                 if($run_query==true){
+                     while($data = mysqli_fetch_array($run_query)){
+
+
+                        echo $data["id"].$data["name"].$data["email"];
+                       
+
+
+
+                     }
+
+
+
+                 }
+                 else{
+
+                    echo "Connection_Error";
+
+
+
+                 }
+
+
+                 
+                 ?>
+
+                 
+

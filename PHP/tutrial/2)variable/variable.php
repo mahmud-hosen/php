@@ -1,0 +1,25 @@
+<?php
+
+
+
+// Data_Type
+
+$x = "Hi Mahmud !";  // it is string
+$y = 12;             //it is number because without cutation 
+$z = 12.4;          // float
+
+
+
+echo $x;
+
+echo "<br>";
+
+echo $y;
+
+echo "<br>";
+   
+
+
+
+
+?>

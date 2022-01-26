@@ -1,0 +1,15 @@
+
+               
+                <?php
+
+                //php_Constant
+
+                define("PWD","Mahmud");
+                
+                echo PWD;
+                
+                
+                ?>          
+
+
+
