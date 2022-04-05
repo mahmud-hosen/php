@@ -1,0 +1,84 @@
+{
+  "courseId": "328776504166",
+  "courseWorkId": "361223650991",
+  "id": "Cg0IiOu99CkQr_3t1MEK",
+  "userId": "109548089007769846147",
+  "creationTime": "2021-06-15T06:25:14.709Z",
+  "updateTime": "2021-06-15T07:44:21.880Z",
+  "state": "RETURNED",
+  "draftGrade": 82,
+  "assignedGrade": 82,
+  "alternateLink": "https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTkx/submissions/by-status/and-sort-last-name/student/MTEyNTAxMzY0NTZa",
+  "courseWorkType": "ASSIGNMENT",
+  "assignmentSubmission": {
+    "attachments": [
+      {
+        "driveFile": {
+          "id": "19URnqRoMU4QaiMr6kkujZrjyJyWJUQC1",
+          "title": "181-15-1929 (final assessment wireless).pdf",
+          "alternateLink": "https://drive.google.com/file/d/19URnqRoMU4QaiMr6kkujZrjyJyWJUQC1/view?usp=drive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/j4v_Y6YrLEXqGXF6dsSbaW6E_0MsGu5_OHh2XyWA78E93NThMAXSNzFVS5ueWYEDmRKeA_FCzJgrYuE=s200"
+        }
+      }
+    ]
+  },
+  "submissionHistory": [
+    {
+      "stateHistory": {
+        "state": "CREATED",
+        "stateTimestamp": "2021-06-15T06:25:14.678Z",
+        "actorUserId": "109548089007769846147"
+      }
+    },
+    {
+      "stateHistory": {
+        "state": "TURNED_IN",
+        "stateTimestamp": "2021-06-15T06:27:48.146Z",
+        "actorUserId": "109548089007769846147"
+      }
+    },
+    {
+      "gradeHistory": {
+        "pointsEarned": 80,
+        "maxPoints": 100,
+        "gradeTimestamp": "2021-06-15T06:32:01.665Z",
+        "actorUserId": "107202882313307637336",
+        "gradeChangeType": "DRAFT_GRADE_POINTS_EARNED_CHANGE"
+      }
+    },
+    {
+      "stateHistory": {
+        "state": "RETURNED",
+        "stateTimestamp": "2021-06-15T07:42:04.748Z",
+        "actorUserId": "107202882313307637336"
+      }
+    },
+    {
+      "gradeHistory": {
+        "pointsEarned": 80,
+        "maxPoints": 100,
+        "gradeTimestamp": "2021-06-15T07:42:04.748Z",
+        "actorUserId": "107202882313307637336",
+        "gradeChangeType": "ASSIGNED_GRADE_POINTS_EARNED_CHANGE"
+      }
+    },
+    {
+      "gradeHistory": {
+        "pointsEarned": 82,
+        "maxPoints": 100,
+        "gradeTimestamp": "2021-06-15T07:44:16.176Z",
+        "actorUserId": "107202882313307637336",
+        "gradeChangeType": "DRAFT_GRADE_POINTS_EARNED_CHANGE"
+      }
+    },
+    {
+      "gradeHistory": {
+        "pointsEarned": 82,
+        "maxPoints": 100,
+        "gradeTimestamp": "2021-06-15T07:44:21.880Z",
+        "actorUserId": "107202882313307637336",
+        "gradeChangeType": "ASSIGNED_GRADE_POINTS_EARNED_CHANGE"
+      }
+    }
+  ]
+}

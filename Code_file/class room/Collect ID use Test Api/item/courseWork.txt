@@ -1,0 +1,60 @@
+Array
+(
+    [406500442730] => Array
+        (
+            [title] => Mid
+            [courseWorkId] => 406500442730
+        )
+
+    [414925241974] => Array
+        (
+            [title] => Final
+            [courseWorkId] => 414925241974
+        )
+
+    [414981567358] => Array
+        (
+            [title] => Others
+            [courseWorkId] => 414981567358
+        )
+
+    [414784376222] => Array
+        (
+            [title] => Assig-2
+            [courseWorkId] => 414784376222
+        )
+
+    [414973058872] => Array
+        (
+            [title] => Assig-1
+            [courseWorkId] => 414973058872
+        )
+
+    [414971697831] => Array
+        (
+            [title] => Attd
+            [courseWorkId] => 414971697831
+        )
+
+    [406493786575] => Array
+        (
+            [title] => Quiz-3
+            [courseWorkId] => 406493786575
+        )
+
+    [406490267909] => Array
+        (
+            [title] => Quiz-2
+            [courseWorkId] => 406490267909
+        )
+
+    [406471808261] => Array
+        (
+            [title] => Quiz-1
+            [courseWorkId] => 406471808261
+        )
+
+)
+
+      
+ 

@@ -1,0 +1,1668 @@
+Array
+(
+    [Cg0Ij-KomCcQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0Ij-KomCcQ9vzi24kM
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0IiOu99CkQ9vzi24kM
+            [userId] => 109548089007769846147
+            [draftGrade] => 23
+        )
+
+    [Cg0IioLI6ioQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0IioLI6ioQ9vzi24kM
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0ImKW-kywQ9vzi24kM
+            [userId] => 110941984489951953834
+            [draftGrade] => 21
+        )
+
+    [Cg0I_NvX-jYQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0I_NvX-jYQ9vzi24kM
+            [userId] => 106336154916804903817
+            [draftGrade] => 16
+        )
+
+    [Cg0IyNWfgDcQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0IyNWfgDcQ9vzi24kM
+            [userId] => 114085302594263606714
+            [draftGrade] => 24
+        )
+
+    [Cg0IsObgwjcQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0IsObgwjcQ9vzi24kM
+            [userId] => 113877207407661117690
+            [draftGrade] => 24
+        )
+
+    [Cg0I4cHz_GMQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0I4cHz_GMQ9vzi24kM
+            [userId] => 104155594685268542393
+            [draftGrade] => 13
+        )
+
+    [Cg0IraCgvGYQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0IraCgvGYQ9vzi24kM
+            [userId] => 101257910203051241466
+            [draftGrade] => 35
+        )
+
+    [Cg0IkJqSs3cQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0IkJqSs3cQ9vzi24kM
+            [userId] => 100217896039340512999
+            [draftGrade] => 14
+        )
+
+    [Cg0I5NTs-ngQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0I5NTs-ngQ9vzi24kM
+            [userId] => 105660001167676912575
+            [draftGrade] => 21
+        )
+
+    [Cg0I0brtyXoQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0I0brtyXoQ9vzi24kM
+            [userId] => 115668172844001989594
+            [draftGrade] => 21
+        )
+
+    [Cg0I_sXl_3oQ9vzi24kM] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg0I_sXl_3oQ9vzi24kM
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4InJjfnYQBEPb84tuJDA
+            [userId] => 106798303925394725241
+            [draftGrade] => 20
+        )
+
+    [Cg4I-v6fv4UBEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4I-v6fv4UBEPb84tuJDA
+            [userId] => 115635713715711224419
+            [draftGrade] => 14
+        )
+
+    [Cg4I4-7T7J8BEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4I4-7T7J8BEPb84tuJDA
+            [userId] => 103452820979931845523
+            [draftGrade] => 17
+        )
+
+    [Cg4I1Oy66b0BEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4I1Oy66b0BEPb84tuJDA
+            [userId] => 100832087326716575751
+            [draftGrade] => 24
+        )
+
+    [Cg4IntKJ2P8DEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4IntKJ2P8DEPb84tuJDA
+            [userId] => 115753427471347639901
+            [draftGrade] => 12
+        )
+
+    [Cg4IsvW0yvoEEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4IsvW0yvoEEPb84tuJDA
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4IpfTC7YcJEPb84tuJDA
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4IiPbxmooJEPb84tuJDA
+            [userId] => 114832904849021042365
+            [draftGrade] => 20
+        )
+
+    [Cg4IoeDCvNwJEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4IoeDCvNwJEPb84tuJDA
+            [userId] => 115013857987632028134
+            [draftGrade] => 32
+        )
+
+    [Cg4IqNKIu5wLEPb84tuJDA] => Array
+        (
+            [courseWorkId] => 414925241974
+            [id] => Cg4IqNKIu5wLEPb84tuJDA
+            [userId] => 115227610175428683412
+            [draftGrade] => 21
+        )
+
+    [Cg0Ij-KomCcQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0Ij-KomCcQ_ubQ9okM
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0IiOu99CkQ_ubQ9okM
+            [userId] => 109548089007769846147
+            [draftGrade] => 5
+        )
+
+    [Cg0IioLI6ioQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0IioLI6ioQ_ubQ9okM
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0ImKW-kywQ_ubQ9okM
+            [userId] => 110941984489951953834
+            [draftGrade] => 7
+        )
+
+    [Cg0I_NvX-jYQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0I_NvX-jYQ_ubQ9okM
+            [userId] => 106336154916804903817
+            [draftGrade] => 5
+        )
+
+    [Cg0IyNWfgDcQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0IyNWfgDcQ_ubQ9okM
+            [userId] => 114085302594263606714
+            [draftGrade] => 8
+        )
+
+    [Cg0IsObgwjcQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0IsObgwjcQ_ubQ9okM
+            [userId] => 113877207407661117690
+            [draftGrade] => 7
+        )
+
+    [Cg0I4cHz_GMQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0I4cHz_GMQ_ubQ9okM
+            [userId] => 104155594685268542393
+            [draftGrade] => 5
+        )
+
+    [Cg0IraCgvGYQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0IraCgvGYQ_ubQ9okM
+            [userId] => 101257910203051241466
+            [draftGrade] => 5
+        )
+
+    [Cg0IkJqSs3cQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0IkJqSs3cQ_ubQ9okM
+            [userId] => 100217896039340512999
+            [draftGrade] => 7
+        )
+
+    [Cg0I5NTs-ngQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0I5NTs-ngQ_ubQ9okM
+            [userId] => 105660001167676912575
+            [draftGrade] => 6
+        )
+
+    [Cg0I0brtyXoQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0I0brtyXoQ_ubQ9okM
+            [userId] => 115668172844001989594
+            [draftGrade] => 7
+        )
+
+    [Cg0I_sXl_3oQ_ubQ9okM] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg0I_sXl_3oQ_ubQ9okM
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4InJjfnYQBEP7m0PaJDA
+            [userId] => 106798303925394725241
+            [draftGrade] => 7
+        )
+
+    [Cg4I-v6fv4UBEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4I-v6fv4UBEP7m0PaJDA
+            [userId] => 115635713715711224419
+            [draftGrade] => 4
+        )
+
+    [Cg4I4-7T7J8BEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4I4-7T7J8BEP7m0PaJDA
+            [userId] => 103452820979931845523
+            [draftGrade] => 6
+        )
+
+    [Cg4I1Oy66b0BEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4I1Oy66b0BEP7m0PaJDA
+            [userId] => 100832087326716575751
+            [draftGrade] => 7
+        )
+
+    [Cg4IntKJ2P8DEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4IntKJ2P8DEP7m0PaJDA
+            [userId] => 115753427471347639901
+            [draftGrade] => 5
+        )
+
+    [Cg4IsvW0yvoEEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4IsvW0yvoEEP7m0PaJDA
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4IpfTC7YcJEP7m0PaJDA
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4IiPbxmooJEP7m0PaJDA
+            [userId] => 114832904849021042365
+            [draftGrade] => 7
+        )
+
+    [Cg4IoeDCvNwJEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4IoeDCvNwJEP7m0PaJDA
+            [userId] => 115013857987632028134
+            [draftGrade] => 6
+        )
+
+    [Cg4IqNKIu5wLEP7m0PaJDA] => Array
+        (
+            [courseWorkId] => 414981567358
+            [id] => Cg4IqNKIu5wLEP7m0PaJDA
+            [userId] => 115227610175428683412
+            [draftGrade] => 6
+        )
+
+    [Cg0Ij-KomCcQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0Ij-KomCcQnpvNmIkM
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0IiOu99CkQnpvNmIkM
+            [userId] => 109548089007769846147
+            [draftGrade] => 4
+        )
+
+    [Cg0IioLI6ioQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0IioLI6ioQnpvNmIkM
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0ImKW-kywQnpvNmIkM
+            [userId] => 110941984489951953834
+            [draftGrade] => 4
+        )
+
+    [Cg0I_NvX-jYQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0I_NvX-jYQnpvNmIkM
+            [userId] => 106336154916804903817
+            [draftGrade] => 3
+        )
+
+    [Cg0IyNWfgDcQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0IyNWfgDcQnpvNmIkM
+            [userId] => 114085302594263606714
+            [draftGrade] => 4
+        )
+
+    [Cg0IsObgwjcQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0IsObgwjcQnpvNmIkM
+            [userId] => 113877207407661117690
+            [draftGrade] => 3
+        )
+
+    [Cg0I4cHz_GMQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0I4cHz_GMQnpvNmIkM
+            [userId] => 104155594685268542393
+            [draftGrade] => 4
+        )
+
+    [Cg0IraCgvGYQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0IraCgvGYQnpvNmIkM
+            [userId] => 101257910203051241466
+            [draftGrade] => 4
+        )
+
+    [Cg0IkJqSs3cQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0IkJqSs3cQnpvNmIkM
+            [userId] => 100217896039340512999
+            [draftGrade] => 3
+        )
+
+    [Cg0I5NTs-ngQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0I5NTs-ngQnpvNmIkM
+            [userId] => 105660001167676912575
+            [draftGrade] => 4
+        )
+
+    [Cg0I0brtyXoQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0I0brtyXoQnpvNmIkM
+            [userId] => 115668172844001989594
+            [draftGrade] => 4
+        )
+
+    [Cg0I_sXl_3oQnpvNmIkM] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg0I_sXl_3oQnpvNmIkM
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4InJjfnYQBEJ6bzZiJDA
+            [userId] => 106798303925394725241
+            [draftGrade] => 4
+        )
+
+    [Cg4I-v6fv4UBEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4I-v6fv4UBEJ6bzZiJDA
+            [userId] => 115635713715711224419
+            [draftGrade] => 3
+        )
+
+    [Cg4I4-7T7J8BEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4I4-7T7J8BEJ6bzZiJDA
+            [userId] => 103452820979931845523
+            [draftGrade] => 4
+        )
+
+    [Cg4I1Oy66b0BEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4I1Oy66b0BEJ6bzZiJDA
+            [userId] => 100832087326716575751
+            [draftGrade] => 4
+        )
+
+    [Cg4IntKJ2P8DEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4IntKJ2P8DEJ6bzZiJDA
+            [userId] => 115753427471347639901
+            [draftGrade] => 3
+        )
+
+    [Cg4IsvW0yvoEEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4IsvW0yvoEEJ6bzZiJDA
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4IpfTC7YcJEJ6bzZiJDA
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4IiPbxmooJEJ6bzZiJDA
+            [userId] => 114832904849021042365
+            [draftGrade] => 6
+        )
+
+    [Cg4IoeDCvNwJEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4IoeDCvNwJEJ6bzZiJDA
+            [userId] => 115013857987632028134
+            [draftGrade] => 3
+        )
+
+    [Cg4IqNKIu5wLEJ6bzZiJDA] => Array
+        (
+            [courseWorkId] => 414784376222
+            [id] => Cg4IqNKIu5wLEJ6bzZiJDA
+            [userId] => 115227610175428683412
+            [draftGrade] => 4
+        )
+
+    [Cg0Ij-KomCcQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0Ij-KomCcQuL7J8okM
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0IiOu99CkQuL7J8okM
+            [userId] => 109548089007769846147
+            [draftGrade] => 3
+        )
+
+    [Cg0IioLI6ioQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0IioLI6ioQuL7J8okM
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0ImKW-kywQuL7J8okM
+            [userId] => 110941984489951953834
+            [draftGrade] => 4
+        )
+
+    [Cg0I_NvX-jYQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0I_NvX-jYQuL7J8okM
+            [userId] => 106336154916804903817
+            [draftGrade] => 5
+        )
+
+    [Cg0IyNWfgDcQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0IyNWfgDcQuL7J8okM
+            [userId] => 114085302594263606714
+            [draftGrade] => 3
+        )
+
+    [Cg0IsObgwjcQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0IsObgwjcQuL7J8okM
+            [userId] => 113877207407661117690
+            [draftGrade] => 4
+        )
+
+    [Cg0I4cHz_GMQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0I4cHz_GMQuL7J8okM
+            [userId] => 104155594685268542393
+            [draftGrade] => 3
+        )
+
+    [Cg0IraCgvGYQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0IraCgvGYQuL7J8okM
+            [userId] => 101257910203051241466
+            [draftGrade] => 3
+        )
+
+    [Cg0IkJqSs3cQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0IkJqSs3cQuL7J8okM
+            [userId] => 100217896039340512999
+            [draftGrade] => 2
+        )
+
+    [Cg0I5NTs-ngQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0I5NTs-ngQuL7J8okM
+            [userId] => 105660001167676912575
+            [draftGrade] => 4
+        )
+
+    [Cg0I0brtyXoQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0I0brtyXoQuL7J8okM
+            [userId] => 115668172844001989594
+            [draftGrade] => 5
+        )
+
+    [Cg0I_sXl_3oQuL7J8okM] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg0I_sXl_3oQuL7J8okM
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4InJjfnYQBELi-yfKJDA
+            [userId] => 106798303925394725241
+            [draftGrade] => 4
+        )
+
+    [Cg4I-v6fv4UBELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4I-v6fv4UBELi-yfKJDA
+            [userId] => 115635713715711224419
+            [draftGrade] => 4
+        )
+
+    [Cg4I4-7T7J8BELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4I4-7T7J8BELi-yfKJDA
+            [userId] => 103452820979931845523
+            [draftGrade] => 4
+        )
+
+    [Cg4I1Oy66b0BELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4I1Oy66b0BELi-yfKJDA
+            [userId] => 100832087326716575751
+            [draftGrade] => 4
+        )
+
+    [Cg4IntKJ2P8DELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4IntKJ2P8DELi-yfKJDA
+            [userId] => 115753427471347639901
+            [draftGrade] => 5
+        )
+
+    [Cg4IsvW0yvoEELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4IsvW0yvoEELi-yfKJDA
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4IpfTC7YcJELi-yfKJDA
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4IiPbxmooJELi-yfKJDA
+            [userId] => 114832904849021042365
+            [draftGrade] => 4
+        )
+
+    [Cg4IoeDCvNwJELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4IoeDCvNwJELi-yfKJDA
+            [userId] => 115013857987632028134
+            [draftGrade] => 4
+        )
+
+    [Cg4IqNKIu5wLELi-yfKJDA] => Array
+        (
+            [courseWorkId] => 414973058872
+            [id] => Cg4IqNKIu5wLELi-yfKJDA
+            [userId] => 115227610175428683412
+            [draftGrade] => 4
+        )
+
+    [Cg0Ij-KomCcQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0Ij-KomCcQp7X28YkM
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0IiOu99CkQp7X28YkM
+            [userId] => 109548089007769846147
+            [draftGrade] => 4
+        )
+
+    [Cg0IioLI6ioQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0IioLI6ioQp7X28YkM
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0ImKW-kywQp7X28YkM
+            [userId] => 110941984489951953834
+            [draftGrade] => 6
+        )
+
+    [Cg0I_NvX-jYQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0I_NvX-jYQp7X28YkM
+            [userId] => 106336154916804903817
+            [draftGrade] => 6
+        )
+
+    [Cg0IyNWfgDcQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0IyNWfgDcQp7X28YkM
+            [userId] => 114085302594263606714
+            [draftGrade] => 6
+        )
+
+    [Cg0IsObgwjcQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0IsObgwjcQp7X28YkM
+            [userId] => 113877207407661117690
+            [draftGrade] => 6
+        )
+
+    [Cg0I4cHz_GMQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0I4cHz_GMQp7X28YkM
+            [userId] => 104155594685268542393
+            [draftGrade] => 6
+        )
+
+    [Cg0IraCgvGYQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0IraCgvGYQp7X28YkM
+            [userId] => 101257910203051241466
+            [draftGrade] => 7
+        )
+
+    [Cg0IkJqSs3cQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0IkJqSs3cQp7X28YkM
+            [userId] => 100217896039340512999
+            [draftGrade] => 4
+        )
+
+    [Cg0I5NTs-ngQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0I5NTs-ngQp7X28YkM
+            [userId] => 105660001167676912575
+            [draftGrade] => 6
+        )
+
+    [Cg0I0brtyXoQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0I0brtyXoQp7X28YkM
+            [userId] => 115668172844001989594
+            [draftGrade] => 6
+        )
+
+    [Cg0I_sXl_3oQp7X28YkM] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg0I_sXl_3oQp7X28YkM
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4InJjfnYQBEKe19vGJDA
+            [userId] => 106798303925394725241
+            [draftGrade] => 6
+        )
+
+    [Cg4I-v6fv4UBEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4I-v6fv4UBEKe19vGJDA
+            [userId] => 115635713715711224419
+            [draftGrade] => 6
+        )
+
+    [Cg4I4-7T7J8BEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4I4-7T7J8BEKe19vGJDA
+            [userId] => 103452820979931845523
+            [draftGrade] => 6
+        )
+
+    [Cg4I1Oy66b0BEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4I1Oy66b0BEKe19vGJDA
+            [userId] => 100832087326716575751
+            [draftGrade] => 6
+        )
+
+    [Cg4IntKJ2P8DEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4IntKJ2P8DEKe19vGJDA
+            [userId] => 115753427471347639901
+            [draftGrade] => 6
+        )
+
+    [Cg4IsvW0yvoEEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4IsvW0yvoEEKe19vGJDA
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4IpfTC7YcJEKe19vGJDA
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4IiPbxmooJEKe19vGJDA
+            [userId] => 114832904849021042365
+            [draftGrade] => 9
+        )
+
+    [Cg4IoeDCvNwJEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4IoeDCvNwJEKe19vGJDA
+            [userId] => 115013857987632028134
+            [draftGrade] => 3
+        )
+
+    [Cg4IqNKIu5wLEKe19vGJDA] => Array
+        (
+            [courseWorkId] => 414971697831
+            [id] => Cg4IqNKIu5wLEKe19vGJDA
+            [userId] => 115227610175428683412
+            [draftGrade] => 5
+        )
+
+    [Cg0Ij-KomCcQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0Ij-KomCcQ6oTCquoL
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0IiOu99CkQ6oTCquoL
+            [userId] => 109548089007769846147
+            [draftGrade] => 14
+        )
+
+    [Cg0IioLI6ioQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0IioLI6ioQ6oTCquoL
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0ImKW-kywQ6oTCquoL
+            [userId] => 110941984489951953834
+            [draftGrade] => 23
+        )
+
+    [Cg0I_NvX-jYQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0I_NvX-jYQ6oTCquoL
+            [userId] => 106336154916804903817
+            [draftGrade] => 24
+        )
+
+    [Cg0IyNWfgDcQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0IyNWfgDcQ6oTCquoL
+            [userId] => 114085302594263606714
+            [draftGrade] => 23
+        )
+
+    [Cg0IsObgwjcQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0IsObgwjcQ6oTCquoL
+            [userId] => 113877207407661117690
+            [draftGrade] => 24
+        )
+
+    [Cg0I4cHz_GMQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0I4cHz_GMQ6oTCquoL
+            [userId] => 104155594685268542393
+            [draftGrade] => 21
+        )
+
+    [Cg0IraCgvGYQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0IraCgvGYQ6oTCquoL
+            [userId] => 101257910203051241466
+            [draftGrade] => 25
+        )
+
+    [Cg0IkJqSs3cQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0IkJqSs3cQ6oTCquoL
+            [userId] => 100217896039340512999
+            [draftGrade] => 21
+        )
+
+    [Cg0I5NTs-ngQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0I5NTs-ngQ6oTCquoL
+            [userId] => 105660001167676912575
+            [draftGrade] => 23
+        )
+
+    [Cg0I0brtyXoQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0I0brtyXoQ6oTCquoL
+            [userId] => 115668172844001989594
+            [draftGrade] => 24
+        )
+
+    [Cg0I_sXl_3oQ6oTCquoL] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg0I_sXl_3oQ6oTCquoL
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4InJjfnYQBEOqEwqrqCw
+            [userId] => 106798303925394725241
+            [draftGrade] => 20
+        )
+
+    [Cg4I-v6fv4UBEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4I-v6fv4UBEOqEwqrqCw
+            [userId] => 115635713715711224419
+            [draftGrade] => 19
+        )
+
+    [Cg4I4-7T7J8BEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4I4-7T7J8BEOqEwqrqCw
+            [userId] => 103452820979931845523
+            [draftGrade] => 22
+        )
+
+    [Cg4I1Oy66b0BEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4I1Oy66b0BEOqEwqrqCw
+            [userId] => 100832087326716575751
+            [draftGrade] => 19
+        )
+
+    [Cg4IntKJ2P8DEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4IntKJ2P8DEOqEwqrqCw
+            [userId] => 115753427471347639901
+            [draftGrade] => 20
+        )
+
+    [Cg4IsvW0yvoEEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4IsvW0yvoEEOqEwqrqCw
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4IpfTC7YcJEOqEwqrqCw
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4IiPbxmooJEOqEwqrqCw
+            [userId] => 114832904849021042365
+            [draftGrade] => 13
+        )
+
+    [Cg4IoeDCvNwJEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4IoeDCvNwJEOqEwqrqCw
+            [userId] => 115013857987632028134
+            [draftGrade] => 23
+        )
+
+    [Cg4IqNKIu5wLEOqEwqrqCw] => Array
+        (
+            [courseWorkId] => 406500442730
+            [id] => Cg4IqNKIu5wLEOqEwqrqCw
+            [userId] => 115227610175428683412
+            [draftGrade] => 23
+        )
+
+    [Cg0Ij-KomCcQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0Ij-KomCcQz-Orp-oL
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0IiOu99CkQz-Orp-oL
+            [userId] => 109548089007769846147
+            [draftGrade] => 13
+        )
+
+    [Cg0IioLI6ioQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0IioLI6ioQz-Orp-oL
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0ImKW-kywQz-Orp-oL
+            [userId] => 110941984489951953834
+            [draftGrade] => 13
+        )
+
+    [Cg0I_NvX-jYQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0I_NvX-jYQz-Orp-oL
+            [userId] => 106336154916804903817
+            [draftGrade] => 14
+        )
+
+    [Cg0IyNWfgDcQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0IyNWfgDcQz-Orp-oL
+            [userId] => 114085302594263606714
+            [draftGrade] => 14
+        )
+
+    [Cg0IsObgwjcQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0IsObgwjcQz-Orp-oL
+            [userId] => 113877207407661117690
+            [draftGrade] => 13
+        )
+
+    [Cg0I4cHz_GMQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0I4cHz_GMQz-Orp-oL
+            [userId] => 104155594685268542393
+            [draftGrade] => 12
+        )
+
+    [Cg0IraCgvGYQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0IraCgvGYQz-Orp-oL
+            [userId] => 101257910203051241466
+            [draftGrade] => 12
+        )
+
+    [Cg0IkJqSs3cQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0IkJqSs3cQz-Orp-oL
+            [userId] => 100217896039340512999
+            [draftGrade] => 12
+        )
+
+    [Cg0I5NTs-ngQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0I5NTs-ngQz-Orp-oL
+            [userId] => 105660001167676912575
+            [draftGrade] => 14
+        )
+
+    [Cg0I0brtyXoQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0I0brtyXoQz-Orp-oL
+            [userId] => 115668172844001989594
+            [draftGrade] => 15
+        )
+
+    [Cg0I_sXl_3oQz-Orp-oL] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg0I_sXl_3oQz-Orp-oL
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4InJjfnYQBEM_jq6fqCw
+            [userId] => 106798303925394725241
+            [draftGrade] => 13
+        )
+
+    [Cg4I-v6fv4UBEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4I-v6fv4UBEM_jq6fqCw
+            [userId] => 115635713715711224419
+            [draftGrade] => 13
+        )
+
+    [Cg4I4-7T7J8BEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4I4-7T7J8BEM_jq6fqCw
+            [userId] => 103452820979931845523
+            [draftGrade] => 12
+        )
+
+    [Cg4I1Oy66b0BEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4I1Oy66b0BEM_jq6fqCw
+            [userId] => 100832087326716575751
+            [draftGrade] => 12
+        )
+
+    [Cg4IntKJ2P8DEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4IntKJ2P8DEM_jq6fqCw
+            [userId] => 115753427471347639901
+            [draftGrade] => 14
+        )
+
+    [Cg4IsvW0yvoEEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4IsvW0yvoEEM_jq6fqCw
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4IpfTC7YcJEM_jq6fqCw
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4IiPbxmooJEM_jq6fqCw
+            [userId] => 114832904849021042365
+            [draftGrade] => 14
+        )
+
+    [Cg4IoeDCvNwJEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4IoeDCvNwJEM_jq6fqCw
+            [userId] => 115013857987632028134
+            [draftGrade] => 10
+        )
+
+    [Cg4IqNKIu5wLEM_jq6fqCw] => Array
+        (
+            [courseWorkId] => 406493786575
+            [id] => Cg4IqNKIu5wLEM_jq6fqCw
+            [userId] => 115227610175428683412
+            [draftGrade] => 12
+        )
+
+    [Cg0Ij-KomCcQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0Ij-KomCcQhYLVpeoL
+            [userId] => 111312875695446755267
+            [draftGrade] => 
+        )
+
+    [Cg0IiOu99CkQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0IiOu99CkQhYLVpeoL
+            [userId] => 109548089007769846147
+            [draftGrade] => 15
+        )
+
+    [Cg0IioLI6ioQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0IioLI6ioQhYLVpeoL
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0ImKW-kywQhYLVpeoL
+            [userId] => 110941984489951953834
+            [draftGrade] => 12
+        )
+
+    [Cg0I_NvX-jYQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0I_NvX-jYQhYLVpeoL
+            [userId] => 106336154916804903817
+            [draftGrade] => 13
+        )
+
+    [Cg0IyNWfgDcQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0IyNWfgDcQhYLVpeoL
+            [userId] => 114085302594263606714
+            [draftGrade] => 12
+        )
+
+    [Cg0IsObgwjcQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0IsObgwjcQhYLVpeoL
+            [userId] => 113877207407661117690
+            [draftGrade] => 14
+        )
+
+    [Cg0I4cHz_GMQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0I4cHz_GMQhYLVpeoL
+            [userId] => 104155594685268542393
+            [draftGrade] => 13
+        )
+
+    [Cg0IraCgvGYQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0IraCgvGYQhYLVpeoL
+            [userId] => 101257910203051241466
+            [draftGrade] => 11
+        )
+
+    [Cg0IkJqSs3cQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0IkJqSs3cQhYLVpeoL
+            [userId] => 100217896039340512999
+            [draftGrade] => 13
+        )
+
+    [Cg0I5NTs-ngQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0I5NTs-ngQhYLVpeoL
+            [userId] => 105660001167676912575
+            [draftGrade] => 13
+        )
+
+    [Cg0I0brtyXoQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0I0brtyXoQhYLVpeoL
+            [userId] => 115668172844001989594
+            [draftGrade] => 14
+        )
+
+    [Cg0I_sXl_3oQhYLVpeoL] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg0I_sXl_3oQhYLVpeoL
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4InJjfnYQBEIWC1aXqCw
+            [userId] => 106798303925394725241
+            [draftGrade] => 13
+        )
+
+    [Cg4I-v6fv4UBEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4I-v6fv4UBEIWC1aXqCw
+            [userId] => 115635713715711224419
+            [draftGrade] => 11
+        )
+
+    [Cg4I4-7T7J8BEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4I4-7T7J8BEIWC1aXqCw
+            [userId] => 103452820979931845523
+            [draftGrade] => 13
+        )
+
+    [Cg4I1Oy66b0BEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4I1Oy66b0BEIWC1aXqCw
+            [userId] => 100832087326716575751
+            [draftGrade] => 14
+        )
+
+    [Cg4IntKJ2P8DEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4IntKJ2P8DEIWC1aXqCw
+            [userId] => 115753427471347639901
+            [draftGrade] => 10
+        )
+
+    [Cg4IsvW0yvoEEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4IsvW0yvoEEIWC1aXqCw
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4IpfTC7YcJEIWC1aXqCw
+            [userId] => 113516169551927353101
+            [draftGrade] => 
+        )
+
+    [Cg4IiPbxmooJEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4IiPbxmooJEIWC1aXqCw
+            [userId] => 114832904849021042365
+            [draftGrade] => 13
+        )
+
+    [Cg4IoeDCvNwJEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4IoeDCvNwJEIWC1aXqCw
+            [userId] => 115013857987632028134
+            [draftGrade] => 12
+        )
+
+    [Cg4IqNKIu5wLEIWC1aXqCw] => Array
+        (
+            [courseWorkId] => 406490267909
+            [id] => Cg4IqNKIu5wLEIWC1aXqCw
+            [userId] => 115227610175428683412
+            [draftGrade] => 13
+        )
+
+    [Cg0Ij-KomCcQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0Ij-KomCcQharunOoL
+            [userId] => 111312875695446755267
+            [draftGrade] => 14
+        )
+
+    [Cg0IiOu99CkQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0IiOu99CkQharunOoL
+            [userId] => 109548089007769846147
+            [draftGrade] => 12
+        )
+
+    [Cg0IioLI6ioQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0IioLI6ioQharunOoL
+            [userId] => 109968899469863661616
+            [draftGrade] => 
+        )
+
+    [Cg0ImKW-kywQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0ImKW-kywQharunOoL
+            [userId] => 110941984489951953834
+            [draftGrade] => 14
+        )
+
+    [Cg0I_NvX-jYQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0I_NvX-jYQharunOoL
+            [userId] => 106336154916804903817
+            [draftGrade] => 18
+        )
+
+    [Cg0IyNWfgDcQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0IyNWfgDcQharunOoL
+            [userId] => 114085302594263606714
+            [draftGrade] => 14
+        )
+
+    [Cg0IsObgwjcQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0IsObgwjcQharunOoL
+            [userId] => 113877207407661117690
+            [draftGrade] => 15
+        )
+
+    [Cg0I4cHz_GMQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0I4cHz_GMQharunOoL
+            [userId] => 104155594685268542393
+            [draftGrade] => 14
+        )
+
+    [Cg0IraCgvGYQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0IraCgvGYQharunOoL
+            [userId] => 101257910203051241466
+            [draftGrade] => 10
+        )
+
+    [Cg0IkJqSs3cQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0IkJqSs3cQharunOoL
+            [userId] => 100217896039340512999
+            [draftGrade] => 10
+        )
+
+    [Cg0I5NTs-ngQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0I5NTs-ngQharunOoL
+            [userId] => 105660001167676912575
+            [draftGrade] => 14
+        )
+
+    [Cg0I0brtyXoQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0I0brtyXoQharunOoL
+            [userId] => 115668172844001989594
+            [draftGrade] => 12
+        )
+
+    [Cg0I_sXl_3oQharunOoL] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg0I_sXl_3oQharunOoL
+            [userId] => 111102590570267097254
+            [draftGrade] => 
+        )
+
+    [Cg4InJjfnYQBEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4InJjfnYQBEIWq7pzqCw
+            [userId] => 106798303925394725241
+            [draftGrade] => 14
+        )
+
+    [Cg4I-v6fv4UBEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4I-v6fv4UBEIWq7pzqCw
+            [userId] => 115635713715711224419
+            [draftGrade] => 10
+        )
+
+    [Cg4I4-7T7J8BEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4I4-7T7J8BEIWq7pzqCw
+            [userId] => 103452820979931845523
+            [draftGrade] => 14
+        )
+
+    [Cg4I1Oy66b0BEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4I1Oy66b0BEIWq7pzqCw
+            [userId] => 100832087326716575751
+            [draftGrade] => 14
+        )
+
+    [Cg4IntKJ2P8DEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4IntKJ2P8DEIWq7pzqCw
+            [userId] => 115753427471347639901
+            [draftGrade] => 13
+        )
+
+    [Cg4IsvW0yvoEEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4IsvW0yvoEEIWq7pzqCw
+            [userId] => 108252912984265477231
+            [draftGrade] => 
+        )
+
+    [Cg4IpfTC7YcJEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4IpfTC7YcJEIWq7pzqCw
+            [userId] => 113516169551927353101
+            [draftGrade] => 34
+        )
+
+    [Cg4IiPbxmooJEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4IiPbxmooJEIWq7pzqCw
+            [userId] => 114832904849021042365
+            [draftGrade] => 14
+        )
+
+    [Cg4IoeDCvNwJEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4IoeDCvNwJEIWq7pzqCw
+            [userId] => 115013857987632028134
+            [draftGrade] => 14
+        )
+
+    [Cg4IqNKIu5wLEIWq7pzqCw] => Array
+        (
+            [courseWorkId] => 406471808261
+            [id] => Cg4IqNKIu5wLEIWq7pzqCw
+            [userId] => 115227610175428683412
+            [draftGrade] => 13
+        )
+
+)
+    
+
+
+
+
+
+
+
+

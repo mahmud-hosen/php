@@ -1,0 +1,21 @@
+{
+  "courseId": "328776504166",
+  "id": "361223650991",
+  "title": "Quiz-3",
+  "state": "PUBLISHED",
+  "alternateLink": "https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTkx/details",
+  "creationTime": "2021-06-15T06:25:12.852Z",
+  "updateTime": "2021-06-15T06:25:14.272Z",
+  "maxPoints": 100,
+  "workType": "ASSIGNMENT",
+  "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+  "assignment": {
+    "studentWorkFolder": {
+      "id": "1tvuo1lF5jgLEmNqPWMhk1j0IfaOEHZsgTRuypyPgizuIveHCvlcoy0ibQOvhA-woRpeh7YiW",
+      "title": "Quiz-3",
+      "alternateLink": "https://drive.google.com/drive/folders/1tvuo1lF5jgLEmNqPWMhk1j0IfaOEHZsgTRuypyPgizuIveHCvlcoy0ibQOvhA-woRpeh7YiW"
+    }
+  },
+  "assigneeMode": "ALL_STUDENTS",
+  "creatorUserId": "107202882313307637336"
+}

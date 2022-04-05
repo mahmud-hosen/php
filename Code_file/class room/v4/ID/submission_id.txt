@@ -1,0 +1,128 @@
+ [1] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzkzNzI4MTAxMTMw/submissions/by-status/and-sort-last-name/student/MzM0MDYwNjMwMDQ5
+                    [assignedGrade] => 60
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 393728101130
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-09-10T14:54:04.800Z
+                    [draftGrade] => 60
+                    [id] => Cg4IoeDCvNwJEIqWmOC6Cw
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-09-10T14:58:25.061Z
+                    [userId] => 115013857987632028134
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/1QcfhiurFXPIGlQWTtMrxcwaQrlGtzmvA/view?usp=drive_web
+                                                    [id] => 1QcfhiurFXPIGlQWTtMrxcwaQrlGtzmvA
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/O0hFpmC5yeWMX8s_E-FjlwpRPyizOfY7Xfud0E3O0zZYgEJNDtKHppNDDJk5zR_dF4-SGE2k7stW_pg=s200
+                                                    [title] => Artificial Intelligence Lab -1.pdf
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => CREATED
+                                            [stateTimestam

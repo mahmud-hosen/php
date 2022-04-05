@@ -1,0 +1,11 @@
+
+$courseId = '399532969922';
+$client = getClient();
+    $service = new Google_Service_Classroom($client);
+    $topic = new Google_Service_Classroom_Topic(array(
+        'name' => 'Chapter-6',
+      ));
+     
+     $course =  $service->courses_topics->create($courseId,$topic);           
+     printf("Course created: %s (%s)\n", $course->name, $course->id);
+       

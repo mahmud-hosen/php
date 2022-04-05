@@ -1,0 +1,50 @@
+if(isset($_POST['CourseWorkCreate'])) {
+
+
+  $CourseId = $_POST['CourseId'];
+  $title = $_POST['title'];
+  $description = $_POST['description'];
+  $state = $_POST['state'];
+  $maxPoints = $_POST['maxPoints'];
+  $topicId = $_POST['topicId'];
+
+
+
+
+    $client = getClient();
+      
+        $service = new Google_Service_Classroom($client);
+         
+        $post_body = new Google_Service_Classroom_CourseWork(array(
+           
+                
+                  'workType' => 'ASSIGNMENT',
+                  'title' => $title,
+                  'description' => $description,
+                  'state' => $state,
+                  'maxPoints' => $maxPoints,
+                  'topicId' => $topicId,
+                  'associatedWithDeveloper' => true,
+                  'assigneeMode' => 'ALL_STUDENTS',
+                  'submissionModificationMode' => 'MODIFIABLE',
+                  "materials"=>['link'=>['url'=>'https://www.examaker.com', 
+                                'title'=>'HW',
+                                'thumbnailUrl'=>'https://examaker.com/apps/imgs/logo_40.png']
+                            ]
+
+
+                  ));
+        try {
+            
+          $course = $service->courses_courseWork->create($CourseId,$post_body,);
+          printf("Course '%s' found.\n", $course->title);
+        } catch (Google_Service_Exception $e) {
+          if ($e->getCode() == 404) {
+            printf("Course with ID '%s' not found.\n", $courseId);
+          } else {
+            throw $e;
+          }
+        }
+
+
+}

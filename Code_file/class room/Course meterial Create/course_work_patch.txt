@@ -1,0 +1,25 @@
+//--------------------- Draft Grade Update---------------------------
+$client = getClient();
+$service = new Google_Service_Classroom($client);
+$courseId = '394192735087';
+$courseWorkId = '394342386111';
+$id = 'Cg4IoeDCvNwJEL-TjYW9Cw';
+$post_body = new Google_Service_Classroom_StudentSubmission(array(
+    'assignedGrade' => 1000,
+    'draftGrade' => 20
+));
+$params = array(
+    'updateMask' => 'assignedGrade,draftGrade'
+  );
+
+ 
+try {
+    $list = $service->courses_courseWork_studentSubmissions->patch($courseId, $courseWorkId, $id, $post_body,$params);
+    printf("Course '%s' found.\n", $list->courseId);
+} catch (Google_Service_Exception $e) {
+  if ($e->getCode() == 404) {
+    printf("Course with ID '%s' not found.\n", $courseId);
+  } else {
+    throw $e;
+  }
+}

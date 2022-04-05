@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title> Course materials </title>
+
+    <?php
+      // All head link file
+      include 'head_link.php'; 
+    ?>
+
+
+</head>
+
+<body id="page-top">
+
+
+    <!-- PHP API CODE Start -->
+    <?php
+ include 'getClient.php';
+?>
+    <!-- PHP API CODE END -->
+
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <?php
+         include 'sidebar.php';
+         ?>
+        <!-- End of Sidebar -->
+
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <!-- Main Content -->
+            <div id="content">
+
+                <!-- Topbar -->
+                <?php
+                include 'top_nav_bar.php';
+                ?>
+                <!-- End of Topbar -->
+
+
+                <div class="container">
+
+
+                    <div class="card card-primary">
+                        <!-- form start -->
+
+                        <div class="card-body">
+
+                            <form action="CourseWorkCreate.php" method="post">
+
+
+                                <div class="row">
+                                   
+                            
+                                    <div class="col-md-7">
+
+                                        <div class="form-group">
+                                            <select class="form-control" id="exampleFormControlSelect1" name="title"
+                                                required>
+                                                <option value="">Select Title </option>
+                                                <option value="Quiz_1">Quiz-1</option>
+                                                <option value="Quiz_2">Quiz-2</option>
+                                                <option value="Quiz_3">Quiz-3</option>
+
+                                                <option value="Assig_1">Assig-1</option>
+                                                <option value="Assig_2">Assig-2</option>
+
+                                                <option value="Others">Others</option>
+
+                                                <option value="Mid">Mid term</option>
+                                                <option value="Final">Final</option>
+
+                                                <option value="Attd">Attendance</option>
+                                            </select>
+                                        </div>
+
+                                        
+                                        <input type="hidden" name="CourseId">
+
+                                        <div class="form-group">
+                                           <div class="card-body pad">
+                                                <div class="mb-3">
+                                                    <textarea class="form-control textarea"  placeholder="Instruction(Optional)" name="description" rows="9"
+                                                            style="width: 100%; height: 200px; font-size: 14px; line-height: 18px; border: 1px solid #dddddd; "></textarea>
+                                                </div>
+              
+                                             </div>
+                                        </div>
+                                        
+
+                                    </div>
+
+                                    <div class="col-md-5">
+
+                                        <?php
+
+
+                         if(isset($_REQUEST['CourseId'])) {
+
+                           $CourseId = $_REQUEST['CourseId'];
+                           $client = getClient();
+                           $service = new Google_Service_Classroom($client);
+
+                          $results  =  $service->courses_topics->listCoursesTopics($CourseId);  
+  
+                        ?>
+
+                                        <div class="form-group">
+
+                                            <input type="hidden" name="CourseId"
+                                                value="<?php echo $_REQUEST['CourseId']; ?>">
+
+                                            <select class="form-control" id="exampleFormControlSelect1" name="topicId"
+                                                required>
+                                                <option>Select Topic </option>
+
+                                                <?php 
+                            
+                          if (count($results->gettopic()) == 0) {
+                                print "No Topic found.\n";
+                           } else {
+                               
+                                foreach ($results->gettopic() as $course) {  ?>
+
+                                                <option value="<?php printf("%s", $course->getTopicId()); ?>">
+                                                    <?php printf("%s", $course->getName()); ?> </option>
+
+                                                <?php
+                                         }
+                                    }
+                                ?>
+
+                                            </select>
+                                        </div>
+
+                                        <?php
+                          }
+                        ?>
+
+
+
+                                        <div class="form-group">
+                                            <select class="form-control" id="exampleFormControlSelect1" name="state"
+                                                required>
+                                                <option value="">States of course work </option>
+                                                <option value="PUBLISHED">PUBLISHED</option>
+                                                <option value="DRAFT">DRAFT</option>
+                                                <option value="DELETED">DELETED</option>
+                                                <option value="COURSE_WORK_STATE_UNSPECIFIED">
+                                                    COURSE_WORK_STATE_UNSPECIFIED</option>
+
+                                            </select>
+
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input name="maxPoints" type="number" class="form-control" id="Points"
+                                                placeholder="Max Points" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input name="dueDate" type="date" class="form-control" id="due"
+                                                placeholder="Due" required>
+                                        </div>
+
+
+
+                                    </div>
+
+
+                                </div>
+                                <div class="row">
+                                    <div class="ml-3">
+                                        <button type="submit" name="CourseWorkCreate" class="btn btn-primary">Create
+                                            Classwork</button>
+                                    </div>
+                                </div>
+
+
+
+                            </form>
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <?php
+    // Java Script File
+    include 'js_script.php';
+    ?>
+
+</body>
+
+</html>
+
+<?php
+// Course Work Create
+if(isset($_POST['CourseWorkCreate'])) {
+
+
+ echo $courseId = $_POST['CourseId'];
+ echo $title = $_POST['title'];
+ echo $description = $_POST['description'];
+ echo $state = $_POST['state'];
+ echo $topicId = $_POST['topicId'];
+
+        $client = getClient();
+        $service = new Google_Service_Classroom($client);
+        $resource = new Google_Service_Classroom_CourseWorkMaterial(array(  
+            
+                  'title' => $title,
+                  //'state' => $state,
+                 'description' =>$description,
+                 // 'associatedWithDeveloper' => true,
+                  'assigneeMode' => 'ALL_STUDENTS',
+                  "materials"=>['youtubeVideo'=>[
+                                'id'=>'E4hRF-bN5p8',
+                                'title'=>'প্রিয় শিল্পী মাহফুজুল আলম এখন পরপারের বাসিন্দা | তার গাওয়া ৩টি বাছাইকৃত গজল | Mahfuzul Alam',
+                                'alternateLink'=>'https://www.youtube.com/watch?v=E4hRF-bN5p8', 
+                                'thumbnailUrl'=>'https://i.ytimg.com/vi/E4hRF-bN5p8/default.jpg']
+                            ]
+                  ));
+        try {
+          $course = $service->courses_courseWorkMaterials->create($courseId,$resource);
+          printf("Course '%s' found.\n", $course->title);
+        } catch (Google_Service_Exception $e) {
+          if ($e->getCode() == 404) {
+            printf("Course with ID '%s' not found.\n", $courseId);
+          } else {
+            throw $e;
+          }
+        }
+
+
+}
+
+
+?>

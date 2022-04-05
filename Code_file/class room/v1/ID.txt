@@ -1,0 +1,15 @@
+                           [id] => 328776504166
+                            [name] => Software Engineering
+                            [ownerId] => 107202882313307637336
+                            [room] => 201
+
+
+Course Name: Software Engineering ∥∥ Id: 328776504166 ∥∥ User Id: 107202882313307637336 ∥∥ 
+Section: PC-D ∥∥ Description: Software is a collection of instructions. ∥∥
+
+
+{"access_token":"ya29.a0AfH6SMDxMzl3VVotZYQrEr2_Q7LFuciPg8b_nGmHO2d61RWmSM52S-OoegdMhFdCzYQOClZoX33iwsV8IEw-N4BZ8GB0NgMu7-f23WD88YTixXbB1UWPKg9n5NgjKJpQSfZxEDZGCp7X5ujNgdhXUsaDjqGt",
+"expires_in":3599,
+"refresh_token":"1\/\/0gQYwbZhWR5dMCgYIARAAGBASNwF-L9Ir6nC5jQIP6peXQQX8Epucbuk2952hceJo6dNl24u09gsjc4RJRaaUk6JrFmletxWsehc",
+"scope":"https:\/\/www.googleapis.com\/auth\/classroom.rosters https:\/\/www.googleapis.com\/auth\/classroom.courses https:\/\/www.googleapis.com\/auth\/classroom.coursework.me https:\/\/www.googleapis.com\/auth\/classroom.student-submissions.students.readonly",
+"token_type":"Bearer","created":1623337090}

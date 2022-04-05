@@ -1,0 +1,2634 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTkx/submissions/by-status/and-sort-last-name/student/MTEyNTAxMzY0NTZa
+                    [assignedGrade] => 82
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 361223650991
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-06-15T06:25:14.709Z
+                    [draftGrade] => 82
+                    [id] => Cg0IiOu99CkQr_3t1MEK
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-06-15T07:44:21.880Z
+                    [userId] => 109548089007769846147
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/19URnqRoMU4QaiMr6kkujZrjyJyWJUQC1/view?usp=drive_web
+                                                    [id] => 19URnqRoMU4QaiMr6kkujZrjyJyWJUQC1
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/pO66P2fcdporg72xd1Shwu5QzcXxhHNhM1mpIXNlnBd25kVUUXC1QawDXS7MPcQy8y1yYVFkMJzji9c=s200
+                                                    [title] => 181-15-1929 (final assessment wireless).pdf
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 109548089007769846147
+                                            [state] => CREATED
+                                            [stateTimestamp] => 2021-06-15T06:25:14.678Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 109548089007769846147
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:27:48.146Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T06:32:01.665Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 80
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [3] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [state] => RETURNED
+                                            [stateTimestamp] => 2021-06-15T07:42:04.748Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [4] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:42:04.748Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 80
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [5] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:44:16.176Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 82
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [6] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:44:21.880Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 82
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTkx/submissions/by-status/and-sort-last-name/student/MTQ3NTI4MDQzNDha
+                    [assignedGrade] => 84
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 361223650991
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-06-15T06:30:41.769Z
+                    [draftGrade] => 84
+                    [id] => Cg0I_NvX-jYQr_3t1MEK
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-06-15T07:46:42.965Z
+                    [userId] => 106336154916804903817
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/1DfZtrGeZDT-QWIwrvIEXi_9JKuv9tR96/view?usp=drive_web
+                                                    [id] => 1DfZtrGeZDT-QWIwrvIEXi_9JKuv9tR96
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/q9ng2Ztym_DsapnMc5p9V-8c75oQ89Sk31HIcJZ-rHDzJABowErsu5YqLJ6gvG9RTf-1BTwAREyk30o=s200
+                                                    [title] => 181-15-1787.pdf
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 106336154916804903817
+                                            [state] => CREATED
+                                            [stateTimestamp] => 2021-06-15T06:30:41.758Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 106336154916804903817
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:34:32.827Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 106336154916804903817
+                                            [state] => RECLAIMED_BY_STUDENT
+                                            [stateTimestamp] => 2021-06-15T06:36:39.360Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [3] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 106336154916804903817
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:37:11.723Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [4] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T06:37:58.380Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 90
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [5] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:35:49.960Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 60
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [6] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [state] => RETURNED
+                                            [stateTimestamp] => 2021-06-15T07:42:04.710Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [7] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:42:04.711Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 60
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [8] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:45:36.823Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 84
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [9] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:46:42.964Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 84
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [2] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTkx/submissions/by-status/and-sort-last-name/student/MzM0MDYwNjMwMDQ5
+                    [assignedGrade] => 85
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 361223650991
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-06-15T06:25:24.609Z
+                    [draftGrade] => 85
+                    [id] => Cg4IoeDCvNwJEK_97dTBCg
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-07-19T18:45:24.646Z
+                    [userId] => 115013857987632028134
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/1Dh4_Mf3T5NJFcf0EAQVofO57FsYiQucQ/view?usp=drive_web
+                                                    [id] => 1Dh4_Mf3T5NJFcf0EAQVofO57FsYiQucQ
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/WrFWU_UzZvahH0DbA_WJJmDRac3kUemw596h6ftSaZXetSGPbmviITpQtahGn4Mm6xKnzuUptzYgsrM=s200
+                                                    [title] => Simulation _ Modelinglab Report-1.pdf
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => CREATED
+                                            [stateTimestamp] => 2021-06-15T06:25:24.557Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:42:49.199Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => RECLAIMED_BY_STUDENT
+                                            [stateTimestamp] => 2021-06-15T06:43:53.175Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [3] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:44:17.972Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [4] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T06:45:16.287Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 90
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [5] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:38:36.593Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 75
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [6] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [state] => RETURNED
+                                            [stateTimestamp] => 2021-06-15T07:42:04.710Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [7] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:42:04.711Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 75
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [8] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:45:25.371Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 73
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [9] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:46:22.747Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 73
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [10] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-21T17:51:50.468Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 71
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [11] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-21T17:52:11.964Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 71
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [12] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-21T19:20:21.816Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 80
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [13] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-21T19:20:30.419Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 80
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [14] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-07-19T18:45:15.962Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 85
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [15] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-07-19T18:45:24.645Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 85
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTU4/submissions/by-status/and-sort-last-name/student/MTEyNTAxMzY0NTZa
+                    [assignedGrade] => 70
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 361223650958
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-06-15T06:23:56.421Z
+                    [draftGrade] => 70
+                    [id] => Cg0IiOu99CkQjv3t1MEK
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-06-15T07:43:01.695Z
+                    [userId] => 109548089007769846147
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/17iqHqa-bH-SzigrQXppnASCVeECVP1cP/view?usp=drive_web
+                                                    [id] => 17iqHqa-bH-SzigrQXppnASCVeECVP1cP
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/69b_qClc4x9WjerJO5Ird33JvJPc6rpjUAZG7ZbhsmuyTvcowx0ZSm7gNE5M639sVVPJgZ3CmFoqLVA=s200
+                                                    [title] => 181-15-1929
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 109548089007769846147
+                                            [state] => CREATED
+                                            [stateTimestamp] => 2021-06-15T06:23:56.390Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 109548089007769846147
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:29:16.526Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T06:31:57.649Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 701
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [3] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [state] => RETURNED
+                                            [stateTimestamp] => 2021-06-15T07:40:47.167Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [4] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:40:47.167Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 701
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [5] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:42:52.748Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 70
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [6] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:43:01.695Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 70
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTU4/submissions/by-status/and-sort-last-name/student/MTQ3NTI4MDQzNDha
+                    [assignedGrade] => 64
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 361223650958
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-06-15T06:35:12.973Z
+                    [draftGrade] => 64
+                    [id] => Cg0I_NvX-jYQjv3t1MEK
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-06-15T07:46:36.986Z
+                    [userId] => 106336154916804903817
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/1FVWtiQjaNsonupq_kmKRQ7FzGhnLSppp/view?usp=drive_web
+                                                    [id] => 1FVWtiQjaNsonupq_kmKRQ7FzGhnLSppp
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/J4yiX21_pJTLtM9jjxkysZpcuX0vT_JxTFDhFPg_D-btyUYqbnaO3bPvEWtbKYClJWdvM2M2MQnRDHk=s200
+                                                    [title] => 181-15-1787.pdf
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 106336154916804903817
+                                            [state] => CREATED
+                                            [stateTimestamp] => 2021-06-15T06:35:12.961Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 106336154916804903817
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:36:13.758Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T06:37:52.496Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 40
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [3] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [state] => RETURNED
+                                            [stateTimestamp] => 2021-06-15T07:40:47.167Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [4] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:40:47.167Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 40
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [5] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => DRAFT_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:45:43.950Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 64
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [6] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [gradeHistory] => Google\Service\Classroom\GradeHistory Object
+                                        (
+                                            [actorUserId] => 107202882313307637336
+                                            [gradeChangeType] => ASSIGNED_GRADE_POINTS_EARNED_CHANGE
+                                            [gradeTimestamp] => 2021-06-15T07:46:36.986Z
+                                            [maxPoints] => 100
+                                            [pointsEarned] => 64
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [2] => Google\Service\Classroom\StudentSubmission Object
+                (
+                    [collection_key:protected] => submissionHistory
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2/a/MzYxMjIzNjUwOTU4/submissions/by-status/and-sort-last-name/student/MzM0MDYwNjMwMDQ5
+                    [assignedGrade] => 80
+                    [assignmentSubmissionType:protected] => Google\Service\Classroom\AssignmentSubmission
+                    [assignmentSubmissionDataType:protected] => 
+                    [associatedWithDeveloper] => 
+                    [courseId] => 328776504166
+                    [courseWorkId] => 361223650958
+                    [courseWorkType] => ASSIGNMENT
+                    [creationTime] => 2021-06-15T06:24:05.811Z
+                    [draftGrade] => 80
+                    [id] => Cg4IoeDCvNwJEI797dTBCg
+                    [late] => 
+                    [multipleChoiceSubmissionType:protected] => Google\Service\Classroom\MultipleChoiceSubmission
+                    [multipleChoiceSubmissionDataType:protected] => 
+                    [shortAnswerSubmissionType:protected] => Google\Service\Classroom\ShortAnswerSubmission
+                    [shortAnswerSubmissionDataType:protected] => 
+                    [state] => RETURNED
+                    [submissionHistoryType:protected] => Google\Service\Classroom\SubmissionHistory
+                    [submissionHistoryDataType:protected] => array
+                    [updateTime] => 2021-06-21T19:20:36.943Z
+                    [userId] => 115013857987632028134
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [assignmentSubmission] => Google\Service\Classroom\AssignmentSubmission Object
+                        (
+                            [collection_key:protected] => attachments
+                            [attachmentsType:protected] => Google\Service\Classroom\Attachment
+                            [attachmentsDataType:protected] => array
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                    [0] => Google\Service\Classroom\Attachment Object
+                                        (
+                                            [driveFileType:protected] => Google\Service\Classroom\DriveFile
+                                            [driveFileDataType:protected] => 
+                                            [formType:protected] => Google\Service\Classroom\Form
+                                            [formDataType:protected] => 
+                                            [linkType:protected] => Google\Service\Classroom\Link
+                                            [linkDataType:protected] => 
+                                            [youTubeVideoType:protected] => Google\Service\Classroom\YouTubeVideo
+                                            [youTubeVideoDataType:protected] => 
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                            [driveFile] => Google\Service\Classroom\DriveFile Object
+                                                (
+                                                    [alternateLink] => https://drive.google.com/file/d/1C0ZXWMulK3x4CQcGhFmWosrU8H8Av-px/view?usp=drive_web
+                                                    [id] => 1C0ZXWMulK3x4CQcGhFmWosrU8H8Av-px
+                                                    [thumbnailUrl] => https://lh3.googleusercontent.com/W7OIGCnK70Xykjlwhtvl2_ttVQu5ItVRk_Utyu7DetJcEpBaIJ5wa8fp_cKYHmb8bS-wbj5iBtyjJZo=s200
+                                                    [title] => Simulation _ Modelinglab Report-1_2.pdf
+                                                    [internal_gapi_mappings:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [modelData:protected] => Array
+                                                        (
+                                                        )
+
+                                                    [processed:protected] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [submissionHistory] => Array
+                        (
+                            [0] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => CREATED
+                                            [stateTimestamp] => 2021-06-15T06:24:05.786Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )
+
+                                    [modelData:protected] => Array
+                                        (
+                                        )
+
+                                    [processed:protected] => Array
+                                        (
+                                        )
+
+                                    [stateHistory] => Google\Service\Classroom\StateHistory Object
+                                        (
+                                            [actorUserId] => 115013857987632028134
+                                            [state] => TURNED_IN
+                                            [stateTimestamp] => 2021-06-15T06:40:52.425Z
+                                            [internal_gapi_mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [modelData:protected] => Array
+                                                (
+                                                )
+
+                                            [processed:protected] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Google\Service\Classroom\SubmissionHistory Object
+                                (
+                                    [gradeHistoryType:protected] => Google\Service\Classroom\GradeHistory
+                                    [gradeHistoryDataType:protected] => 
+                                    [stateHistoryType:protected] => Google\Service\Classroom\StateHistory
+                                    [stateHistoryDataType:protected] => 
+                                    [internal_gapi_mappings:protected] => Array
+                                        (
+                                        )

@@ -1,0 +1,23 @@
+{
+  "id": "328776504166",
+  "name": "Software Engineering",
+  "section": "PC-M",
+  "descriptionHeading": "Software_212 PC-D",
+  "description": "Software is a collection of instructions.",
+  "room": "700",
+  "ownerId": "107202882313307637336",
+  "creationTime": "2021-04-29T17:18:39.577Z",
+  "updateTime": "2021-08-28T16:02:18.360Z",
+  "enrollmentCode": "dy4k3a5",
+  "courseState": "ACTIVE",
+  "alternateLink": "https://classroom.google.com/c/MzI4Nzc2NTA0MTY2",
+  "teacherGroupEmail": "Software_212_PC_D_teachers_1da32f56@classroom.google.com",
+  "courseGroupEmail": "Software_212_PC_D_3a46bc8d@classroom.google.com",
+  "teacherFolder": {
+    "id": "1TFGILur7GVrKwE4_m0PUeHx2PhBmwhloU4UVoKkkIO56oSvyI4oYcVVgQEvOWlEZcrghMqPY",
+    "title": "Software_212 PC-D",
+    "alternateLink": "https://drive.google.com/drive/folders/1TFGILur7GVrKwE4_m0PUeHx2PhBmwhloU4UVoKkkIO56oSvyI4oYcVVgQEvOWlEZcrghMqPY"
+  },
+  "guardiansEnabled": false,
+  "calendarId": "classroom103994955055102205570@group.calendar.google.com"
+}

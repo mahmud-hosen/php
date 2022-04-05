@@ -1,0 +1,35 @@
+
+$output = "";
+
+$output ="<table  id='dataTable' width='100%'>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Quiz-1</th>
+            <th>Quiz-2</th>
+        </tr>
+    </thead>
+    <tbody>";
+
+    
+        $CountGrade = (count($studentGrade)-1);
+
+         $total_number = 0;
+         $student = 0;
+         $avg_mark = 0; 
+
+         for ($k = 0; $k < count($studentNames); $k++) { 
+
+    $output .="<tr><td>{ $studentNames[$k] }</td>";
+
+            for ($i = 0; $i <= $CountGrade; $i++){
+                if(($studentGrade[$i]['title'] == "Quiz-1") && ($studentNames[$k] == $studentGrade[$i]['userID'])){        
+            
+    $output .= "<td><input type='text'  value='{$studentGrade[$i]["grade"] }'></td>";
+              }
+            }
+    $output .="</tr>";
+        } 
+
+     $output .=" </tbody>";
+     $output .=" </table>";

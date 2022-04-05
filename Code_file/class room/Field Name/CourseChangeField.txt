@@ -1,0 +1,3 @@
+name    = Subject name
+section = Class (1 - 12 )
+room    = Section 

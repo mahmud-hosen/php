@@ -1,0 +1,1199 @@
+Google\Service\Classroom\ListCoursesResponse Object
+(
+    [collection_key:protected] => courses
+    [coursesType:protected] => Google\Service\Classroom\Course
+    [coursesDataType:protected] => array
+    [nextPageToken] => 
+    [internal_gapi_mappings:protected] => Array
+        (
+        )
+
+    [modelData:protected] => Array
+        (
+        )
+
+    [processed:protected] => Array
+        (
+        )
+
+    [courses] => Array
+        (
+            [0] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/NDA2NDg3MzMxNTg0
+                    [calendarId] => classroom101275063596496358577@group.calendar.google.com
+                    [courseGroupEmail] => Android_PC_D_e1eece3d@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-10-04T14:33:16.659Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => j3pouuz
+                    [guardiansEnabled] => 
+                    [id] => 406487331584
+                    [name] => Android
+                    [ownerId] => 107202882313307637336
+                    [room] => 240
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Android_PC_D_teachers_515f8552@classroom.google.com
+                    [updateTime] => 2021-10-04T14:33:16.659Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1oyD0q22Zh2LhOIe08egzyV8oxQjJTojFFjWvPM47a_g0VrdxErYvUlEk6hwEdWk9H5IE1vzg
+                            [id] => 1oyD0q22Zh2LhOIe08egzyV8oxQjJTojFFjWvPM47a_g0VrdxErYvUlEk6hwEdWk9H5IE1vzg
+                            [title] => Android PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [1] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/NDA1OTk0NTEzNzk1
+                    [calendarId] => classroom110823232071813034388@group.calendar.google.com
+                    [courseGroupEmail] => CSS_PC_D_4e4bcc30@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-10-03T05:01:55.149Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => 4vumkba
+                    [guardiansEnabled] => 
+                    [id] => 405994513795
+                    [name] => CSS
+                    [ownerId] => 107202882313307637336
+                    [room] => 300
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => CSS_PC_D_teachers_6b02968a@classroom.google.com
+                    [updateTime] => 2021-10-03T05:09:45.953Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1zp2lJRdeIVxwNV-QDBTk9cKfcHEnimP1EjE2LgaDB70yf1OTQOJY_S76Gr3B-shlr7Ngu4By
+                            [id] => 1zp2lJRdeIVxwNV-QDBTk9cKfcHEnimP1EjE2LgaDB70yf1OTQOJY_S76Gr3B-shlr7Ngu4By
+                            [title] => CSS PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [2] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk5NTMyOTY5OTIy
+                    [calendarId] => classroom104381685270739461631@group.calendar.google.com
+                    [courseGroupEmail] => PHP_PC_D_4eaebeef@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-21T05:17:05.158Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => swltesw
+                    [guardiansEnabled] => 
+                    [id] => 399532969922
+                    [name] => PHP
+                    [ownerId] => 107202882313307637336
+                    [room] => 302
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => PHP_PC_D_teachers_5e3a725a@classroom.google.com
+                    [updateTime] => 2021-09-21T05:17:05.158Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1b9w99Rp1Xw57gVG06kamYbD197X51zUGQRpI8ZR3T27UT82EPowe6vtT1yW6OpqMs7ZaKzyN
+                            [id] => 1b9w99Rp1Xw57gVG06kamYbD197X51zUGQRpI8ZR3T27UT82EPowe6vtT1yW6OpqMs7ZaKzyN
+                            [title] => PHP PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [3] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk5NTMzMDA5MzU4
+                    [calendarId] => 
+                    [courseGroupEmail] => PHP_PC_D_54025da7@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => PROVISIONED
+                    [creationTime] => 2021-09-21T05:16:50.376Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => jpfaq7p
+                    [guardiansEnabled] => 
+                    [id] => 399533009358
+                    [name] => PHP
+                    [ownerId] => 107202882313307637336
+                    [room] => 302
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => PHP_PC_D_teachers_40540c01@classroom.google.com
+                    [updateTime] => 2021-09-21T05:16:50.375Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/163E7wmAjPUxa1v3xXr_69EyRmNsbvxfkTgmnQ02Y8dmKe88MThExiLFHoafaYiZ3xQzwCzxA
+                            [id] => 163E7wmAjPUxa1v3xXr_69EyRmNsbvxfkTgmnQ02Y8dmKe88MThExiLFHoafaYiZ3xQzwCzxA
+                            [title] => PHP PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [4] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk5NTgyNzA0MzQw
+                    [calendarId] => classroom113133219692394661775@group.calendar.google.com
+                    [courseGroupEmail] => OPP2_7ab38310@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-21T04:46:16.623Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => 5tbj2dm
+                    [guardiansEnabled] => 
+                    [id] => 399582704340
+                    [name] => OPP2
+                    [ownerId] => 107202882313307637336
+                    [room] => 
+                    [section] => 
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => OPP2_teachers_a925cb0d@classroom.google.com
+                    [updateTime] => 2021-09-21T04:46:16.623Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1mtGA8ZDYFv3CwqXuJIoEA2rqbf1mUkJA70pcQWmGjhBu-W_Nq61WJaJg4Ro2vv7UDEXXQZBs
+                            [id] => 1mtGA8ZDYFv3CwqXuJIoEA2rqbf1mUkJA70pcQWmGjhBu-W_Nq61WJaJg4Ro2vv7UDEXXQZBs
+                            [title] => OPP2
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [5] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk5NTMyNjU0NTUz
+                    [calendarId] => classroom101754142666691159688@group.calendar.google.com
+                    [courseGroupEmail] => OPP2_8bcdeb82@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-21T04:45:56.147Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => qksa6xk
+                    [guardiansEnabled] => 
+                    [id] => 399532654553
+                    [name] => OPP2
+                    [ownerId] => 107202882313307637336
+                    [room] => 
+                    [section] => 
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => OPP2_teachers_8b8f060d@classroom.google.com
+                    [updateTime] => 2021-09-28T03:56:31.701Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1pncagKGSuoKMpTpt3N6ymflUfzg8o8mnWnt9Lx7fdzsbuXKdeDWKpW3JowchjHALPS4jE37V
+                            [id] => 1pncagKGSuoKMpTpt3N6ymflUfzg8o8mnWnt9Lx7fdzsbuXKdeDWKpW3JowchjHALPS4jE37V
+                            [title] => OPP2
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [6] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk4NjU2NDc3NTM3
+                    [calendarId] => 
+                    [courseGroupEmail] => Ajax_PC_D_4252bd1a@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => DECLINED
+                    [creationTime] => 2021-09-19T03:54:20.969Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => npl7yex
+                    [guardiansEnabled] => 
+                    [id] => 398656477537
+                    [name] => Ajax
+                    [ownerId] => 107202882313307637336
+                    [room] => 200
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Ajax_PC_D_teachers_d2c75129@classroom.google.com
+                    [updateTime] => 2021-09-19T03:55:15.001Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1mff35YFsUGQTC8j0yPqYhLuNXhE5UaTvU64CrnJrXVRuz5KhURV3R2PmED9o5ORJq-sQ-XMP
+                            [id] => 1mff35YFsUGQTC8j0yPqYhLuNXhE5UaTvU64CrnJrXVRuz5KhURV3R2PmED9o5ORJq-sQ-XMP
+                            [title] => Ajax PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [7] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk0NjkwMzA1NjU1
+                    [calendarId] => classroom100873939854083655691@group.calendar.google.com
+                    [courseGroupEmail] => Java_Script_eb5b7b8f@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-13T16:04:00.818Z
+                    [description] => 
+                    [descriptionHeading] => Java Script
+                    [enrollmentCode] => p5f4pgh
+                    [guardiansEnabled] => 
+                    [id] => 394690305655
+                    [name] => Java Script
+                    [ownerId] => 107202882313307637336
+                    [room] => 
+                    [section] => 
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Java_Script_teachers_c0cf81e7@classroom.google.com
+                    [updateTime] => 2021-09-13T16:04:00.817Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1e2DpyO-T8N0B0Nr1hW0ImVbRsiRdnV_Lh6XVYl9ljPx49Zd0PUmRjSxOZ_NQcGV1VY79eJzd
+                            [id] => 1e2DpyO-T8N0B0Nr1hW0ImVbRsiRdnV_Lh6XVYl9ljPx49Zd0PUmRjSxOZ_NQcGV1VY79eJzd
+                            [title] => Java Script
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [8] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk0NTA2ODQ5NzE0
+                    [calendarId] => classroom102915590872636797908@group.calendar.google.com
+                    [courseGroupEmail] => Math_1_PC_D_3c8fffe9@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-13T06:57:42.531Z
+                    [description] => 
+                    [descriptionHeading] => Math-1 PC-D
+                    [enrollmentCode] => s3ebecx
+                    [guardiansEnabled] => 
+                    [id] => 394506849714
+                    [name] => Math-1
+                    [ownerId] => 107202882313307637336
+                    [room] => 342
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Math_1_PC_D_teachers_f35ea9f5@classroom.google.com
+                    [updateTime] => 2021-09-13T06:57:42.531Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1Hc5Op0I0l0fF82XQ0iDS58Ukt8ZIht49xC2hZCbEOCTgBZsF8eBmwK14WQQuZ8Z56tIdx44x
+                            [id] => 1Hc5Op0I0l0fF82XQ0iDS58Ukt8ZIht49xC2hZCbEOCTgBZsF8eBmwK14WQQuZ8Z56tIdx44x
+                            [title] => Math-1 PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [9] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzk0MTkyNzM1MDg3
+                    [calendarId] => classroom117319869353034455215@group.calendar.google.com
+                    [courseGroupEmail] => Elective_Period_3_cf1777cf@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-11T18:17:21.041Z
+                    [description] => We'll be learning about about the structure of living creatures from a combination of textbooks, guest lectures, and lab work. Expect to be excited!
+                    [descriptionHeading] => Welcome to 10th Grade Biology
+                    [enrollmentCode] => dfnqtvn
+                    [guardiansEnabled] => 
+                    [id] => 394192735087
+                    [name] => Elective
+                    [ownerId] => 107202882313307637336
+                    [room] => 302
+                    [section] => Period 99
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Elective_Period_3_teachers_9056ac3e@classroom.google.com
+                    [updateTime] => 2021-09-13T05:18:48.372Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1GS3rrWFLFTkjWw7q-gHBqfgj55VGBd5VrL-ZnmZN7V7eMvLMaDvsEjEcPSlMyvuqZ0DWzJG2
+                            [id] => 1GS3rrWFLFTkjWw7q-gHBqfgj55VGBd5VrL-ZnmZN7V7eMvLMaDvsEjEcPSlMyvuqZ0DWzJG2
+                            [title] => Elective Period 3
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [10] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzkzODk2MjIwOTMz
+                    [calendarId] => classroom115780327999109873470@group.calendar.google.com
+                    [courseGroupEmail] => HTML_PC_G_edda5a8f@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-10T14:36:51.537Z
+                    [description] => 
+                    [descriptionHeading] => HTML PC-G
+                    [enrollmentCode] => wwjnn4l
+                    [guardiansEnabled] => 
+                    [id] => 393896220933
+                    [name] => HTML
+                    [ownerId] => 107202882313307637336
+                    [room] => 308
+                    [section] => PC-G
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => HTML_PC_G_teachers_8946c360@classroom.google.com
+                    [updateTime] => 2021-09-10T14:36:51.537Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1PaRVi01JF15HuD6fiprxz6QUWw7iZicbv4ZgBs_OvkYpRABn25pRS2wLTFSa7lT7kS0Wywhw
+                            [id] => 1PaRVi01JF15HuD6fiprxz6QUWw7iZicbv4ZgBs_OvkYpRABn25pRS2wLTFSa7lT7kS0Wywhw
+                            [title] => HTML PC-G
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [11] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzkzMzQ5MjYxODUz
+                    [calendarId] => classroom114968900520026767562@group.calendar.google.com
+                    [courseGroupEmail] => Java_Programming_PC_D_bedb7978@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-09T06:26:09.369Z
+                    [description] => 
+                    [descriptionHeading] => Java Programming PC-D
+                    [enrollmentCode] => jrgnhjg
+                    [guardiansEnabled] => 
+                    [id] => 393349261853
+                    [name] => Java Programming
+                    [ownerId] => 107202882313307637336
+                    [room] => 230
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Java_Programming_PC_D_teachers_18d0861e@classroom.google.com
+                    [updateTime] => 2021-09-09T06:26:09.369Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1af3Dg3jTeNSeu8VbzKfIYqQSRT6YLf-vv1ag4pPNasq7eaaZL6ZHP4bILb7biJs9sAIHwsL2
+                            [id] => 1af3Dg3jTeNSeu8VbzKfIYqQSRT6YLf-vv1ag4pPNasq7eaaZL6ZHP4bILb7biJs9sAIHwsL2
+                            [title] => Java Programming PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [12] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzkyNDI3NTg0NDcy
+                    [calendarId] => classroom111895306002082471073@group.calendar.google.com
+                    [courseGroupEmail] => Physics_2_099d75b2@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-09-07T06:14:21.135Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => nfzpllp
+                    [guardiansEnabled] => 
+                    [id] => 392427584472
+                    [name] => Physics-2
+                    [ownerId] => 107202882313307637336
+                    [room] => 
+                    [section] => 
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Physics_2_teachers_5086242a@classroom.google.com
+                    [updateTime] => 2021-09-07T06:14:21.135Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1Sh78RleITbdSvCZxrb1ZA_3wchg6wuHVL-q-SiZo71QkTozzePGM_D_CXhoZ-NtsRBpHF0as
+                            [id] => 1Sh78RleITbdSvCZxrb1ZA_3wchg6wuHVL-q-SiZo71QkTozzePGM_D_CXhoZ-NtsRBpHF0as
+                            [title] => Physics-2
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [13] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzgwMjcxNzI3NjA0
+                    [calendarId] => 
+                    [courseGroupEmail] => Biology12_Period_2_fedb4a6c@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => DECLINED
+                    [creationTime] => 2021-08-16T14:08:28.099Z
+                    [description] => We'll be learning about about the structure of living creatures from a combination of textbooks, guest lectures, and lab work. Expect to be excited!
+                    [descriptionHeading] => Welcome to 10th Grade Biology
+                    [enrollmentCode] => th344ss
+                    [guardiansEnabled] => 
+                    [id] => 380271727604
+                    [name] => Biology12
+                    [ownerId] => 107202882313307637336
+                    [room] => 301
+                    [section] => Period 2
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Biology12_Period_2_teachers_1cbd8bfa@classroom.google.com
+                    [updateTime] => 2021-09-07T06:15:20.072Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1Drjr9uw6L2scp_VzGdNfIjeejEHEVpSu9Tt9mbOfNBu_oyMKgT0NkDDFFnRRUxb6TBZ4OAgh
+                            [id] => 1Drjr9uw6L2scp_VzGdNfIjeejEHEVpSu9Tt9mbOfNBu_oyMKgT0NkDDFFnRRUxb6TBZ4OAgh
+                            [title] => Biology12 Period 2
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [14] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/Mzc5OTY3MTU0OTY2
+                    [calendarId] => classroom105066945037591660724@group.calendar.google.com
+                    [courseGroupEmail] => PHP_PC_D_5bd320b7@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-08-14T03:08:44.680Z
+                    [description] => Good Course
+                    [descriptionHeading] => Welcome to php course 
+                    [enrollmentCode] => vq7veg3
+                    [guardiansEnabled] => 
+                    [id] => 379967154966
+                    [name] => PHP
+                    [ownerId] => 107202882313307637336
+                    [room] => 301
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => PHP_PC_D_teachers_d8dcda1a@classroom.google.com
+                    [updateTime] => 2021-08-14T03:08:44.680Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/183ohUyzEA3hR08Hysp14ITGr5wEvHm1lUNoRbpNRRdc7gqsfVfinObWpDj4qj0S_zUpmG7ur
+                            [id] => 183ohUyzEA3hR08Hysp14ITGr5wEvHm1lUNoRbpNRRdc7gqsfVfinObWpDj4qj0S_zUpmG7ur
+                            [title] => PHP PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [15] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzcxMjcxOTY5MjI0
+                    [calendarId] => classroom110775535533779058681@group.calendar.google.com
+                    [courseGroupEmail] => Algorithm_Data_Structure_PC_B_e45f2d13@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-07-20T02:31:02.249Z
+                    [description] => 
+                    [descriptionHeading] => Algorithm & Data Structure PC-B
+                    [enrollmentCode] => o65kudz
+                    [guardiansEnabled] => 
+                    [id] => 371271969224
+                    [name] => Algorithm & Data Structure
+                    [ownerId] => 107202882313307637336
+                    [room] => 206
+                    [section] => PC-B
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Algorithm_Data_Structure_PC_B_teachers_ebbab912@classroom.google.com
+                    [updateTime] => 2021-07-20T02:31:02.249Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1GaRPE4VdK2mXTOICVP45-juOA90mfVrySwY984AzVyw_Sb66MtD4HcM_b6DpNzKuuNOMsUug
+                            [id] => 1GaRPE4VdK2mXTOICVP45-juOA90mfVrySwY984AzVyw_Sb66MtD4HcM_b6DpNzKuuNOMsUug
+                            [title] => Algorithm & Data Structure PC-B
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [16] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzczNjI0OTA1Mzgw
+                    [calendarId] => classroom114715132983570622318@group.calendar.google.com
+                    [courseGroupEmail] => Networking_PC_A_5374b1b5@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-07-20T02:29:01.431Z
+                    [description] => 
+                    [descriptionHeading] => Networking PC-A
+                    [enrollmentCode] => 7unuzbc
+                    [guardiansEnabled] => 
+                    [id] => 373624905380
+                    [name] => Networking
+                    [ownerId] => 107202882313307637336
+                    [room] => 204
+                    [section] => PC-A
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Networking_PC_A_teachers_5056bd2f@classroom.google.com
+                    [updateTime] => 2021-07-20T02:29:01.431Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1ept3CTn0m99gfGU21CB6JrV_AJ56NE8nRkYaRT_-Ou-Lw3gBXGzathkNrJaLkiKPGMJLqGUR
+                            [id] => 1ept3CTn0m99gfGU21CB6JrV_AJ56NE8nRkYaRT_-Ou-Lw3gBXGzathkNrJaLkiKPGMJLqGUR
+                            [title] => Networking PC-A
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [17] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzI4Nzc2NTA0MTY2
+                    [calendarId] => classroom103994955055102205570@group.calendar.google.com
+                    [courseGroupEmail] => Software_212_PC_D_3a46bc8d@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-04-29T17:18:39.577Z
+                    [description] => 
+                    [descriptionHeading] => 
+                    [enrollmentCode] => dy4k3a5
+                    [guardiansEnabled] => 
+                    [id] => 328776504166
+                    [name] => Software Engineering
+                    [ownerId] => 107202882313307637336
+                    [room] => 302
+                    [section] => Period 3
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Software_212_PC_D_teachers_1da32f56@classroom.google.com
+                    [updateTime] => 2021-09-10T19:16:43.844Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/1TFGILur7GVrKwE4_m0PUeHx2PhBmwhloU4UVoKkkIO56oSvyI4oYcVVgQEvOWlEZcrghMqPY
+                            [id] => 1TFGILur7GVrKwE4_m0PUeHx2PhBmwhloU4UVoKkkIO56oSvyI4oYcVVgQEvOWlEZcrghMqPY
+                            [title] => Software_212 PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [18] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MzE1MDg5MDI3MjYx
+                    [calendarId] => classroom101911653741178030156@group.calendar.google.com
+                    [courseGroupEmail] => Wireless_PC_D_4c45c7c0@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2021-04-12T20:47:20.238Z
+                    [description] => Wireless networking is a method by which homes
+                    [descriptionHeading] => Wireless PC-D
+                    [enrollmentCode] => sm3nfus
+                    [guardiansEnabled] => 
+                    [id] => 315089027261
+                    [name] => Wireless
+                    [ownerId] => 107202882313307637336
+                    [room] => 111
+                    [section] => PC-D
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Wireless_PC_D_teachers_ea80ca9b@classroom.google.com
+                    [updateTime] => 2021-05-03T18:23:20.661Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/0B8dYzHEEoHPMfjRYQ19JY3VDUGc4SnM1dXB1ei1JZUhHVmpNU1RQeGQ4eUlIX2dsbTNLajA?resourcekey=0-94E0PSkyzOXXurFM80BhZQ
+                            [id] => 0B8dYzHEEoHPMfjRYQ19JY3VDUGc4SnM1dXB1ei1JZUhHVmpNU1RQeGQ4eUlIX2dsbTNLajA
+                            [title] => Wireless PC-D
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [19] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MTE3NTM5OTYzNTYw
+                    [calendarId] => classroom107288120787994856490@group.calendar.google.com
+                    [courseGroupEmail] => Bangla_PC_c_d289bdb1@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2020-07-16T16:51:35.974Z
+                    [description] => Bangla Language
+                    [descriptionHeading] => Bangla PC-c
+                    [enrollmentCode] => 75bhld6
+                    [guardiansEnabled] => 
+                    [id] => 117539963560
+                    [name] => Bangla
+                    [ownerId] => 107202882313307637336
+                    [room] => 102
+                    [section] => PC-c
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => Bangla_PC_c_teachers_e1dd5fd0@classroom.google.com
+                    [updateTime] => 2021-05-03T18:26:35.912Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => https://drive.google.com/drive/folders/0B8dYzHEEoHPMfjdZbXJJSUM3UVRJNkd5V1hzci1YVUE1MjBuQjJjcXBGdTNWYkxXd2Rmb0E?resourcekey=0-4MCmgrwPg7O2JJ2tfkK0tw
+                            [id] => 0B8dYzHEEoHPMfjdZbXJJSUM3UVRJNkd5V1hzci1YVUE1MjBuQjJjcXBGdTNWYkxXd2Rmb0E
+                            [title] => Bangla PC-c
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [20] => Google\Service\Classroom\Course Object
+                (
+                    [collection_key:protected] => courseMaterialSets
+                    [alternateLink] => https://classroom.google.com/c/MTE3NTI2OTc0OTcz
+                    [calendarId] => classroom117106840422505738370@group.calendar.google.com
+                    [courseGroupEmail] => English_Tulip_16b5dbaa@classroom.google.com
+                    [courseMaterialSetsType:protected] => Google\Service\Classroom\CourseMaterialSet
+                    [courseMaterialSetsDataType:protected] => array
+                    [courseState] => ACTIVE
+                    [creationTime] => 2020-07-16T15:20:23.421Z
+                    [description] => Object Oriented programming (OOP)
+                    [descriptionHeading] => English Tulip
+                    [enrollmentCode] => jmeoxhu
+                    [guardiansEnabled] => 
+                    [id] => 117526974973
+                    [name] => OOP
+                    [ownerId] => 107202882313307637336
+                    [room] => 100
+                    [section] => Tulip
+                    [teacherFolderType:protected] => Google\Service\Classroom\DriveFolder
+                    [teacherFolderDataType:protected] => 
+                    [teacherGroupEmail] => English_Tulip_teachers_e96fb237@classroom.google.com
+                    [updateTime] => 2021-05-03T18:24:15.648Z
+                    [internal_gapi_mappings:protected] => Array
+                        (
+                        )
+
+                    [modelData:protected] => Array
+                        (
+                        )
+
+                    [processed:protected] => Array
+                        (
+                        )
+
+                    [teacherFolder] => Google\Service\Classroom\DriveFolder Object
+                        (
+                            [alternateLink] => 
+                            [id] => 0B8dYzHEEoHPMfjUzOXFXbGx5WGhiMzRObW1GemVEMGlONF9VQXJZUHhpenQ3YW9jaXRfRWs
+                            [title] => 
+                            [internal_gapi_mappings:protected] => Array
+                                (
+                                )
+
+                            [modelData:protected] => Array
+                                (
+                                )
+
+                            [processed:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

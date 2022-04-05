@@ -1,0 +1,17 @@
+
+
+$client = getClient();
+$service = new Google_Service_Classroom($client);
+
+
+ $CourseId = '394192735087';
+
+ $results  =  $service->courses_topics->listCoursesTopics($CourseId);  
+
+ if (count($results->gettopic()) == 0) {
+    print "No Topic found.\n";
+ } else {
+  foreach ($results->gettopic() as $course) {  
+    printf("%s", $course->getName());
+  }
+}
