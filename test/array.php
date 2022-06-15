@@ -1,18 +1,3 @@
-<?php
-
-session_start();
-
-$_SESSION["name"] = "kamal";
-$_SESSION["age"] = 20;
-$_SESSION["home"] = "Dhaka";
-$_SESSION["country"] = "Bangladesh";
-
-echo " Session variable value set . "
-
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +7,6 @@ echo " Session variable value set . "
     <title>Document</title>
 </head>
 <body>
-    <a href="test.php">Go to test page</a>
     
 </body>
 </html>
