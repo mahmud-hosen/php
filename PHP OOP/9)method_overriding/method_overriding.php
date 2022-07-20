@@ -3,6 +3,8 @@
 class user{
     public $name;
     public $age;
+    public $roll;
+
 
     function set(string $name, int $age){
         $this->name = $name;
@@ -10,9 +12,9 @@ class user{
     }
     
     function display(){
-        echo "My name is ".$this->name."<br>";
-        echo "My age is ".$this->age."<br>";
-        echo "My roll is ".$this->roll."<br>";
+        echo "My name is ".$this->name."\n";
+        echo "My age is ".$this->age."\n";
+        echo "My roll is ".$this->roll."\n";
 
        
         echo "<br>";
@@ -29,7 +31,7 @@ class student extends user{
     
     
     function display(){
-        echo "Student Info"."<br>";
+        echo "Student Info\n";
         parent::display();
     }
     

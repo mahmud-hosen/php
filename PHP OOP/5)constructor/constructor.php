@@ -1,6 +1,9 @@
 <?php
 
-//If you create a __construct() function, PHP will automatically call this function when you create an object from a class.
+/*
+If you create a __construct() function, PHP will automatically call this 
+function when you create an object for that class.
+*/
 
 // Without Constructor
 class cars{

@@ -35,4 +35,9 @@ foreach($student as $key => $value)
    $student['name'] = $student['name']." Kamal";
    $sValues = array_values($student);
    print_r($sValues);
+
+   //Data remove from associative array
+   echo "\n\nData remove from array:";
+   unset($student['name']);
+   print_r($student);
 ?>
