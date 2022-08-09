@@ -1,6 +1,7 @@
 <?php
 
-//private the property or method can ONLY be accessed within the class
+//private property or method can ONLY be accessed within the class
+
 class student{
     private $name = "jamal";
     public $age = "40";
@@ -11,7 +12,7 @@ class student{
     }
 
     private function test(){
-        echo "Kamal"."<br>";
+        echo "Kamal \n";
     }
 }
 
@@ -22,6 +23,8 @@ $student_obj = new student();
 echo $student_obj->age;
 
 $student_obj->display();
+$student_obj->name;
+
 
 
 

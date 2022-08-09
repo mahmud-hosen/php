@@ -1,8 +1,12 @@
 <?php
-
-// Need to implement of body in child class for abstract class
+// It is one kind of concept .
+// Body can not implement in parent class but must implement in child class for abstract class 
 // Need to extends abstract function , do not initialize abstract function
+//We can not create instance or object for abstract class
+// We can put field or property, method, constructor in abstract class but can not instance 
+//Can not declare Final  abstruct  class
 
+// If a abstract class has all method abstract it call pure abstract class.
 abstract class Shape{
     abstract function getArea();
     abstract function getPerimeter();

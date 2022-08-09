@@ -17,7 +17,7 @@ class user{
         echo "My roll is ".$this->roll."\n";
 
        
-        echo "<br>";
+        echo "\n";
     }
 }
 
@@ -31,7 +31,7 @@ class student extends user{
     
     
     function display(){
-        echo "Student Info\n";
+        echo "Student Info \n";
         parent::display();
     }
     
@@ -39,7 +39,7 @@ class student extends user{
 
 class teacher extends user{
      function display(){
-        echo "Teacher Info"."<br>";
+        echo "Teacher Info \n";
         parent::display();
     }
     

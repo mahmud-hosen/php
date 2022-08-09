@@ -1,0 +1,3 @@
+Mahmud, 20, 3 
+Jamal, 22, 4 
+Kamal, 25, 5 
