@@ -11,6 +11,12 @@ use Mail;
 
 class UserController extends Controller
 {
+     function userInfo()
+    {
+        return User::with('phone')->get();
+    }
+
+    
     public function userInfoSave()
     {
         $user = new User();

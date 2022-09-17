@@ -1,7 +1,7 @@
 <?php
-$conn = mysqli_connect('localhost','akhtarbd_akhtar','@LMSZero2022','akhtarbd_LMSZero');
+$conn = mysqli_connect('localhost','root','','otp');
 if($conn == TRUE){
-    // echo "Connected"."</br>";
+    echo "Connected"."</br>";
 }else{
     echo "Not Connected";
 }

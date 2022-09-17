@@ -1,0 +1,6 @@
+{
+    "autoload": {
+        "classmap": ["flowers","fruits"],
+        "files": ["somefiles.php"]
+    }
+}

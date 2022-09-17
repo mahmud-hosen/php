@@ -12,10 +12,14 @@ class User extends Model
     use Notifiable;
     protected $fillable = ['name','age','email'];
 
+
+    // One to one relationship
     public function phone()
     {
         return $this->hasOne('App\Phone');
     }
+
+    
     public function routeNotificationForMail($notification)
     {
         // Return email address only...
