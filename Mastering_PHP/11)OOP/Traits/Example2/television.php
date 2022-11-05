@@ -9,5 +9,10 @@ trait Television{
     {
         echo "I am television. I have duel speaker.\n";
     }
+
+    public function power()
+    {
+        echo "I am television. I am working with 220V . \n";
+    }
     
 }
