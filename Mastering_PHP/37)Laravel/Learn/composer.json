@@ -35,7 +35,8 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "LP\\Calculator\\": "Packages/LP/calculator/src"
         },
         "classmap": [
             "database/seeds",
