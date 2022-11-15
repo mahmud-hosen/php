@@ -13,7 +13,7 @@ class PhoneController extends Controller
 {
     function phoneInfo()
     {
-        return Phone::with('user')->get();
+        return $info = Phone::with('user')->get();
 
     }
    

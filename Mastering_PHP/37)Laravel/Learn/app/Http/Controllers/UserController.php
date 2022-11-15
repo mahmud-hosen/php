@@ -13,7 +13,12 @@ class UserController extends Controller
 {
      function userInfo()
     {
+        return User::all();
+    }
+     function userPhone()
+    {
         return User::with('phone')->get();
+
     }
 
     

@@ -10,10 +10,13 @@ use Illuminate\Database\Eloquent\Model;
 class User extends Model
 {
     use Notifiable;
-    protected $fillable = ['name','age','email'];
+    protected $fillable = ['name','email'];
 
 
     // One to one relationship
+    // If you want custom foreignkey Both relation(inverse) 2nd parametre will that name
+     //Like   return $this->hasOne('App\Phone','u_id');
+    
     public function phone()
     {
         return $this->hasOne('App\Phone');

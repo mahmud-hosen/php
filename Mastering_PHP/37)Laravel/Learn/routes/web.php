@@ -1,8 +1,15 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Notification;
 
+use Illuminate\Http\Request;
+use App\Notifications\EmailNotification;
+use App\User;
+
+ // For Email
+use App\Mail\TestEmail;
+use Illuminate\Support\Facades\Mail;
 
 Route::get('/', function () {
     return view('welcome');
@@ -35,6 +42,9 @@ Route::get('/contact/{value}', function ($value) {
     // ..................... One to one ............................
     Route::get('phoneInfo','PhoneController@phoneInfo');
     Route::get('userInfo','UserController@userInfo');
+    Route::get('userPhone','UserController@userPhone');
+
+
 
     //...................... One to many  .........................
     Route::get('allPost','PostController@allPost');
@@ -74,6 +84,52 @@ Route::get('cacheTest','StudentController@cacheTest');
 Route::get('notificationMail','UserController@notificationMail');
 
 Route::get('PostProcess','UserController@PostProcess');
+
+
+//.........................    Email Notification ........................
+Route::get('/sentEmailNotification', function(){
+
+    $info = [
+        'name' => 'Mahmud',
+        'age' => 24,
+        'email' => 'mahmud@gmail.com'
+    ];
+
+    $users = User::all();
+
+    // Way 1: Using The Notifiable Trait | Single mail sent
+     // $user->notify(new EmailNotification($info));
+
+    // Way 2: Using The Notification Facade & Multipul mail sent
+        foreach($users as $user)
+        {
+            Notification::send($user, new EmailNotification($info));
+        }
+    });
+    
+    // ...................   Email ...........................
+    Route::get('sendEmail', function(){
+
+    $mailData = [
+        "name" => "Mahmud Hosen.",
+        "email" => "mahmud@gmail.com",
+        "age" => 24
+
+    ];
+    // Way: 1
+    // Mail::to("hello@example.com")->send(new TestEmail($mailData));
+
+    //Or Way: 2
+    Mail::send('email.email2', $mailData, function($mail) use ($mailData){
+        $mail->from($mailData['email'], $mailData['name'])
+             ->to('kamal@gmail.com')
+             ->subject("Test Email");
+
+    });
+
+    dd("Mail Sent Successfully!");
+   });
+
 
 
 
