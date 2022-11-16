@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Notification;
+use App\Http\Controllers\TeacherController;
 
 use Illuminate\Http\Request;
 use App\Notifications\EmailNotification;
@@ -85,6 +86,9 @@ Route::get('notificationMail','UserController@notificationMail');
 
 Route::get('PostProcess','UserController@PostProcess');
 
+// Crud Operation
+Route::resource('teacher', 'TeacherController');
+
 
 //.........................    Email Notification ........................
 Route::get('/sentEmailNotification', function(){
@@ -130,6 +134,12 @@ Route::get('/sentEmailNotification', function(){
     dd("Mail Sent Successfully!");
    });
 
+
+   // Puser Notification
+   Route::get('puserTest', function () {
+    event(new App\Events\NotificationEvent('Monika'));
+    return "Event has been sent!";
+ });
 
 
 
