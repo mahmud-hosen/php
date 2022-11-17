@@ -85,6 +85,11 @@ Route::get('cacheTest','StudentController@cacheTest');
 Route::get('notificationMail','UserController@notificationMail');
 
 Route::get('PostProcess','UserController@PostProcess');
+// Jquery
+
+Route::resource('', 'TeacherController');
+Route::post('jqueryData','TeacherController@test');
+
 
 // Crud Operation
 Route::resource('teacher', 'TeacherController');
