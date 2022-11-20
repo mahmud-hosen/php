@@ -146,6 +146,27 @@ Route::get('/sentEmailNotification', function(){
     return "Event has been sent!";
  });
 
+  // Jquery Crud Operation
+
+  Route::get('jqueryHome', function(){
+    return view('jqueryCrud.home');
+
+  });
+
+  Route::get('shop/view','ShopController@index')->name('shopView');
+  Route::get('shop/create','ShopController@create')->name('shop.create');
+  Route::post('shop/store','ShopController@store')->name('shop.store');
+  Route::get('shop/delete/{id}','ShopController@destroy')->name('shop.delete');
+  Route::get('shop/edit/{id}','ShopController@edit')->name('shop.edit');
+  Route::post('shop/update/{id}','ShopController@update')->name('shop.update');
+
+
+
+
+  
+
+
+
 
 
 
