@@ -9,6 +9,7 @@ class BaseClass {
    }
 }
 
+
 class ChildClass extends BaseClass {
    public function moreTesting() {
        echo "ChildClass::moreTesting() called\n";
